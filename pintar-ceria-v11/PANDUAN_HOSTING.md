@@ -69,9 +69,9 @@ Aplikasi ini menggunakan **Gemini API**. Agar fitur AI (Chatbot & Generator Soal
     *   Buat API Key baru.
 
 2.  **Masukkan API Key di Hosting (Vercel/Netlify):**
-    *   **Di Vercel:** Masuk ke Settings -> Environment Variables. Tambahkan `VITE_GEMINI_API_KEY` (atau sesuaikan dengan nama variabel di kode Anda, misal `GEMINI_API_KEY` jika di backend, tapi karena ini client-side, gunakan `VITE_GEMINI_API_KEY` dan update kode untuk menggunakan `import.meta.env.VITE_GEMINI_API_KEY` jika perlu, atau biarkan `process.env` jika menggunakan plugin env).
-    *   **PENTING:** Kode saat ini menggunakan `process.env.GEMINI_API_KEY`. Vite secara default menggunakan `import.meta.env.VITE_...`.
-    *   **Solusi:** Pastikan Anda mengatur Environment Variable di Vercel dengan nama `GEMINI_API_KEY` (jika menggunakan plugin define) atau sesuaikan kode menjadi `import.meta.env.VITE_GEMINI_API_KEY` dan ubah nama variabel di Vercel menjadi `VITE_GEMINI_API_KEY`.
+    *   **Di Vercel:** Masuk ke Settings -> Environment Variables. Tambahkan `VITE_GEMINI_API_KEY` dengan nilai API Key Anda.
+    *   **Di Netlify:** Masuk ke Site settings -> Environment variables. Tambahkan `VITE_GEMINI_API_KEY`.
+    *   **Catatan:** Kode aplikasi sudah diperbarui untuk mendeteksi `VITE_GEMINI_API_KEY` secara otomatis. Anda tidak perlu mengubah kode apa pun.
 
     *Saran:* Untuk keamanan terbaik, gunakan backend (server) untuk memanggil API. Namun untuk demo/proyek sekolah sederhana, cara di atas bisa digunakan dengan risiko API Key terlihat di browser (network tab).
 

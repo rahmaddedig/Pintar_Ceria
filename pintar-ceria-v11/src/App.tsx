@@ -308,7 +308,13 @@ export default function App() {
       setIsTyping(true);
 
       try {
-        const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
+        const apiKey = import.meta.env.VITE_GEMINI_API_KEY || process.env.GEMINI_API_KEY;
+        if (!apiKey) {
+          setMessages(prev => [...prev, { sender: 'bot', text: 'Maaf, API Key belum dikonfigurasi. Mohon hubungi administrator.' }]);
+          setIsTyping(false);
+          return;
+        }
+        const ai = new GoogleGenAI({ apiKey });
         const response = await ai.models.generateContent({
           model: "gemini-3-flash-preview",
           contents: userMsg,
@@ -440,7 +446,13 @@ export default function App() {
       setAdminFiles(newAdminFiles);
       await localforage.setItem('adminFiles', newAdminFiles);
 
-      const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
+      const apiKey = import.meta.env.VITE_GEMINI_API_KEY || process.env.GEMINI_API_KEY;
+      if (!apiKey) {
+        alert("API Key belum dikonfigurasi!");
+        setAdminLoading(false);
+        return;
+      }
+      const ai = new GoogleGenAI({ apiKey });
       const model = ai.models.generateContent({
         model: "gemini-3-flash-preview",
         config: {
