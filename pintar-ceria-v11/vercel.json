@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "pintar-ceria-v11/index.html"
+    }
+  ]
+}
