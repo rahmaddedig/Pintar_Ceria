@@ -1054,7 +1054,7 @@ export default function App() {
       </AnimatePresence>
       
       <footer className="text-center text-gray-400 text-sm mt-8 pb-4">
-        &copy; 2024 Pintar Ceria - v1.5 (Retry on Unavailable)
+        &copy; 2026|RDG Pintar Ceria - v1.5 (Retry on Unavailable)
       </footer>
     </div>
   );
