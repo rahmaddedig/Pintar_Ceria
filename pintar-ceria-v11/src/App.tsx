@@ -494,11 +494,14 @@ export default function App() {
       setAdminSuccess(true);
       loadMapelCounts();
     } catch (err: any) {
-      console.error(err);
-      let msg = err.message || "Terjadi kesalahan saat menghubungi AI.";
-      if (msg.includes("429") || msg.includes("quota")) {
-        msg = "Kuota API Google habis (Error 429). Mohon tunggu 1-2 menit atau gunakan API Key baru di pengaturan Vercel.";
+      console.error("Full Error Object:", err);
+      let msg = err.message || err.toString() || "Terjadi kesalahan saat menghubungi AI.";
+      
+      // Check for 429 or quota in the message string
+      if (msg.includes("429") || msg.includes("quota") || msg.includes("Resource has been exhausted")) {
+        msg = "Kuota API Google habis (Error 429). Mohon tunggu 1-2 menit atau gunakan API Key baru.";
       }
+      
       showModal("Gagal Menyiapkan Soal ❌", msg, "🤖");
     } finally {
       setAdminLoading(false);
@@ -1026,6 +1029,10 @@ export default function App() {
           </div>
         )}
       </AnimatePresence>
+      
+      <footer className="text-center text-gray-400 text-sm mt-8 pb-4">
+        &copy; 2024 Pintar Ceria - v1.2 (Updated Error Handling)
+      </footer>
     </div>
   );
 }
