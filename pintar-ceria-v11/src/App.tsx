@@ -316,7 +316,7 @@ export default function App() {
         }
         const ai = new GoogleGenAI({ apiKey });
         const response = await ai.models.generateContent({
-          model: "gemini-3-flash-preview",
+          model: "gemini-3.1-flash-lite-preview",
           contents: userMsg,
           config: { systemInstruction: "Kamu adalah asisten pengajar yang membantu siswa memahami materi pelajaran SD kelas 5. Gunakan bahasa yang menyenangkan, mudah dipahami, sertakan emoji, dan format jawaban dengan Markdown sederhana (bold, list, italic). Hindari penggunaan LaTeX atau simbol matematika yang rumit (gunakan teks biasa seperti 'x pangkat 2' atau '3 kali 4')." }
         });
@@ -457,35 +457,58 @@ export default function App() {
         return;
       }
       const ai = new GoogleGenAI({ apiKey });
-      const model = ai.models.generateContent({
-        model: "gemini-3-flash-preview",
-        config: {
-          responseMimeType: "application/json",
-          systemInstruction: `Kamu adalah 'Bu Guru Ceria', pembuat soal ahli untuk SD kelas 5 Kurikulum Merdeka.
-          Buatkan soal ujian mapel ${selectedMapel.name}. Jumlah: ${adminJumlahSoal} SOAL.
-          Gunakan 'Contoh Soal (SAS)' sebagai referensi utama format dan tingkat kesulitan.
-          Validasi soal agar sesuai dengan 'Kisi-kisi' yang diberikan.
-          Variasi Tipe harus campuran: "pg" (Pilihan Ganda 4 opsi acak dalam array "options") dan "isian" (Isian singkat).
-          Variasi Format harus campuran: "text", "comic" (deskripsikan adegan komik), "conversation" (array field "conversation" berisi {speaker, text}).
-          Khusus untuk soal Matematika, WAJIB sertakan field "illustration" yang berisi deskripsi visual singkat (contoh: "Segitiga siku-siku alas 3cm tinggi 4cm") untuk membantu siswa.
-          Setiap soal butuh field: "materi", "type", "format", "question", "options", "answer", "explanation", "conversation", "illustration".
-          Keluarkan HANYA JSON VALID format array.`
-        },
-        contents: [
-          {
-            role: 'user',
-            parts: [
-              { text: `Buatkan ${adminJumlahSoal} soal mapel ${selectedMapel.name} Kelas 5 SD.
-              ${kisiText ? `\n\n[KISI-KISI]:\n${kisiText.substring(0, 3000)}` : ''}
-              ${sasText ? `\n\n[CONTOH SOAL (SAS)]:\n${sasText.substring(0, 5000)}` : ''}
-              ${materiText ? `\n\n[MATERI]:\n${materiText.substring(0, 8000)}` : 'Buat soal berdasarkan pengetahuan umum tingkat kelas 5 SD.'}` }
+      
+      let response;
+      let attempts = 0;
+      const maxAttempts = 3;
+      
+      while (attempts < maxAttempts) {
+        try {
+          const result = await ai.models.generateContent({
+            model: "gemini-3.1-flash-lite-preview",
+            config: {
+              responseMimeType: "application/json",
+              systemInstruction: `Kamu adalah 'Bu Guru Ceria', pembuat soal ahli untuk SD kelas 5 Kurikulum Merdeka.
+              Buatkan soal ujian mapel ${selectedMapel.name}. Jumlah: ${adminJumlahSoal} SOAL.
+              Gunakan 'Contoh Soal (SAS)' sebagai referensi utama format dan tingkat kesulitan.
+              Validasi soal agar sesuai dengan 'Kisi-kisi' yang diberikan.
+              Variasi Tipe harus campuran: "pg" (Pilihan Ganda 4 opsi acak dalam array "options") dan "isian" (Isian singkat).
+              Variasi Format harus campuran: "text", "comic" (deskripsikan adegan komik), "conversation" (array field "conversation" berisi {speaker, text}).
+              Khusus untuk soal Matematika, WAJIB sertakan field "illustration" yang berisi deskripsi visual singkat (contoh: "Segitiga siku-siku alas 3cm tinggi 4cm") untuk membantu siswa.
+              Setiap soal butuh field: "materi", "type", "format", "question", "options", "answer", "explanation", "conversation", "illustration".
+              Keluarkan HANYA JSON VALID format array.`
+            },
+            contents: [
+              {
+                role: 'user',
+                parts: [
+                  { text: `Buatkan ${adminJumlahSoal} soal mapel ${selectedMapel.name} Kelas 5 SD.
+                  ${kisiText ? `\n\n[KISI-KISI]:\n${kisiText.substring(0, 1500)}` : ''}
+                  ${sasText ? `\n\n[CONTOH SOAL (SAS)]:\n${sasText.substring(0, 2000)}` : ''}
+                  ${materiText ? `\n\n[MATERI]:\n${materiText.substring(0, 4000)}` : 'Buat soal berdasarkan pengetahuan umum tingkat kelas 5 SD.'}` }
+                ]
+              }
             ]
+          });
+          response = result;
+          break; // Success
+        } catch (e: any) {
+          attempts++;
+          console.log(`Attempt ${attempts} failed:`, e);
+          
+          const isRateLimit = e.message?.includes("429") || e.message?.includes("quota") || e.message?.includes("Resource has been exhausted") || e.message?.includes("503") || e.message?.toLowerCase().includes("unavailable");
+          
+          if (isRateLimit && attempts < maxAttempts) {
+            const delay = Math.pow(2, attempts) * 2000; // 4s, 8s
+            setAdminStatus(`⏳ Gangguan sesaat/Kuota penuh. Menunggu ${delay/1000} detik... (Percobaan ${attempts}/${maxAttempts})`);
+            await new Promise(resolve => setTimeout(resolve, delay));
+          } else {
+            throw e;
           }
-        ]
-      });
+        }
+      }
 
-      const response = await model;
-      const questions = JSON.parse(response.text || '[]');
+      const questions = JSON.parse(response?.text || '[]');
 
       await localforage.setItem(adminMapelId, {
         questions: Array.isArray(questions) ? questions : (questions.questions || [])
@@ -499,7 +522,7 @@ export default function App() {
       
       // Check for 429 or quota in the message string
       if (msg.includes("429") || msg.includes("quota") || msg.includes("Resource has been exhausted")) {
-        msg = "Kuota API Google habis (Error 429). Mohon tunggu 1-2 menit atau gunakan API Key baru.";
+        msg = "Kuota API sedang penuh (Rate Limit). Mohon tunggu 2-3 menit sebelum mencoba lagi, atau kurangi jumlah soal.";
       }
       
       showModal("Gagal Menyiapkan Soal ❌", msg, "🤖");
@@ -1031,7 +1054,7 @@ export default function App() {
       </AnimatePresence>
       
       <footer className="text-center text-gray-400 text-sm mt-8 pb-4">
-        &copy; 2024 Pintar Ceria - v1.2 (Updated Error Handling)
+        &copy; 2024 Pintar Ceria - v1.5 (Retry on Unavailable)
       </footer>
     </div>
   );
