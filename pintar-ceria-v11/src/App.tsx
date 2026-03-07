@@ -321,8 +321,12 @@ export default function App() {
           config: { systemInstruction: "Kamu adalah asisten pengajar yang membantu siswa memahami materi pelajaran SD kelas 5. Gunakan bahasa yang menyenangkan, mudah dipahami, sertakan emoji, dan format jawaban dengan Markdown sederhana (bold, list, italic). Hindari penggunaan LaTeX atau simbol matematika yang rumit (gunakan teks biasa seperti 'x pangkat 2' atau '3 kali 4')." }
         });
         setMessages(prev => [...prev, { sender: 'bot', text: response.text || 'Maaf, saya tidak bisa menjawab itu.' }]);
-      } catch (e) {
-        setMessages(prev => [...prev, { sender: 'bot', text: 'Terjadi kesalahan saat menghubungi AI. 🤖' }]);
+      } catch (e: any) {
+        let msg = 'Terjadi kesalahan saat menghubungi AI. 🤖';
+        if (e.message?.includes("429") || e.message?.includes("quota")) {
+          msg = 'Kuota API habis. Tunggu sebentar ya! ⏳';
+        }
+        setMessages(prev => [...prev, { sender: 'bot', text: msg }]);
       } finally {
         setIsTyping(false);
       }
@@ -491,7 +495,11 @@ export default function App() {
       loadMapelCounts();
     } catch (err: any) {
       console.error(err);
-      showModal("Gagal Menyiapkan Soal ❌", err.message || "Terjadi kesalahan saat menghubungi AI.", "🤖");
+      let msg = err.message || "Terjadi kesalahan saat menghubungi AI.";
+      if (msg.includes("429") || msg.includes("quota")) {
+        msg = "Kuota API Google habis (Error 429). Mohon tunggu 1-2 menit atau gunakan API Key baru di pengaturan Vercel.";
+      }
+      showModal("Gagal Menyiapkan Soal ❌", msg, "🤖");
     } finally {
       setAdminLoading(false);
     }
