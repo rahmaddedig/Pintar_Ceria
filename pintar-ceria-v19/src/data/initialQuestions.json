@@ -1,0 +1,5206 @@
+{
+  "indo": [
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah kalimat berikut yang mengandung singkatan?",
+      "options": [
+        "Ibu membeli sayur di pasar.",
+        "Ayah bekerja di SMP Negeri 1.",
+        "Adik sedang bermain bola.",
+        "Mereka pergi ke sekolah."
+      ],
+      "answer": "Ayah bekerja di SMP Negeri 1.",
+      "explanation": "SMP merupakan singkatan dari Sekolah Menengah Pertama.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Pilihlah kalimat yang mengandung akronim dengan benar!",
+      "options": [
+        "Saya akan pergi ke US.",
+        "Ibu memasak di dapur.",
+        "Ayah pergi ke kantor menggunakan SIM.",
+        "Dia bekerja di Puskesmas."
+      ],
+      "answer": "Dia bekerja di Puskesmas.",
+      "explanation": "Puskesmas adalah akronim dari Pusat Kesehatan Masyarakat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Akronim dari 'Pekan Olahraga Nasional' adalah...",
+      "options": [
+        "Pornas",
+        "PON",
+        "Pekannas",
+        "Por-nas"
+      ],
+      "answer": "PON",
+      "explanation": "Pekan Olahraga Nasional disingkat menjadi PON.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Jika teks membahas proses terjadinya hujan, judul yang tepat adalah...",
+      "options": [
+        "Indahnya Pelangi",
+        "Proses Terjadinya Hujan",
+        "Manfaat Air",
+        "Dongeng Hujan"
+      ],
+      "answer": "Proses Terjadinya Hujan",
+      "explanation": "Teks eksplanasi menjelaskan proses terjadinya fenomena alam.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Topik utama dari teks tentang 'Pemanasan Global' adalah...",
+      "options": [
+        "Cara menanam pohon",
+        "Penyebab suhu bumi meningkat",
+        "Keindahan gunung",
+        "Jenis-jenis hewan"
+      ],
+      "answer": "Penyebab suhu bumi meningkat",
+      "explanation": "Pemanasan global berfokus pada kenaikan suhu bumi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Singkatan dari 'Perserikatan Bangsa-Bangsa' adalah...",
+      "options": [
+        "PBB",
+        "P.B.B.",
+        "Pb-b",
+        "Pbb"
+      ],
+      "answer": "PBB",
+      "explanation": "Singkatan lembaga resmi ditulis dengan huruf kapital tanpa titik.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "conversation",
+      "question": "Berdasarkan percakapan, apa yang dimaksud dengan akronim?",
+      "options": [],
+      "answer": "Gabungan huruf atau suku kata yang ditulis sebagai kata",
+      "explanation": "Akronim dibaca seperti kata biasa.",
+      "conversation": [
+        {
+          "speaker": "Guru",
+          "text": "Anak-anak, apa itu akronim?"
+        },
+        {
+          "speaker": "Budi",
+          "text": "Singkatan yang dibaca seperti kata, Bu!"
+        }
+      ],
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "comic",
+      "question": "Dalam komik, seorang dokter memakai jas bertuliskan 'RSUD'. Apa kepanjangan RSUD?",
+      "options": [
+        "Rumah Sakit Umum Daerah",
+        "Rumah Sehat Untuk Desa",
+        "Ruang Sakit Umum Daerah",
+        "Rumah Sakit Utama Desa"
+      ],
+      "answer": "Rumah Sakit Umum Daerah",
+      "explanation": "RSUD adalah singkatan dari Rumah Sakit Umum Daerah.",
+      "conversation": null,
+      "illustration": "Seorang dokter berdiri di depan gedung rumah sakit dengan papan nama RSUD."
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Bagian awal teks eksplanasi yang berisi gambaran umum disebut...",
+      "options": [
+        "Kesimpulan",
+        "Pernyataan umum",
+        "Argumentasi",
+        "Penutup"
+      ],
+      "answer": "Pernyataan umum",
+      "explanation": "Pernyataan umum memperkenalkan topik yang akan dibahas.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan kepanjangan dari akronim 'KTP'!",
+      "options": [],
+      "answer": "Kartu Tanda Penduduk",
+      "explanation": "KTP adalah singkatan resmi identitas penduduk.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah di bawah ini yang merupakan akronim?",
+      "options": [
+        "DPR",
+        "Pramuka",
+        "SIA",
+        "KAS"
+      ],
+      "answer": "Pramuka",
+      "explanation": "Pramuka adalah akronim dari Praja Muda Karana.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa tujuan utama penulisan teks eksplanasi?",
+      "options": [
+        "Menghibur pembaca",
+        "Menjelaskan fenomena",
+        "Menceritakan tokoh",
+        "Mengajak orang lain"
+      ],
+      "answer": "Menjelaskan fenomena",
+      "explanation": "Teks eksplanasi bersifat informatif.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan kepanjangan dari 'SD'!",
+      "options": [],
+      "answer": "Sekolah Dasar",
+      "explanation": "SD adalah singkatan umum.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Urutan struktur teks eksplanasi yang benar adalah...",
+      "options": [
+        "Umum - Sebab - Akibat",
+        "Sebab - Umum - Akhir",
+        "Akibat - Umum - Sebab",
+        "Umum - Akhir - Sebab"
+      ],
+      "answer": "Umum - Sebab - Akibat",
+      "explanation": "Struktur baku teks eksplanasi dimulai dari pernyataan umum.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah singkatan yang penulisannya benar?",
+      "options": [
+        "Sdr",
+        "Sdr.",
+        "sdr",
+        "Sdr-"
+      ],
+      "answer": "Sdr.",
+      "explanation": "Singkatan gelar atau sebutan menggunakan tanda titik di akhir.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "comic",
+      "question": "Ani bertanya, 'Ibu, apa itu Balita?'. Balita adalah akronim dari...",
+      "options": [
+        "Bayi Lima Tahun",
+        "Bawah Lima Tahun",
+        "Bayi Laki-laki Tahun",
+        "Banyak Lima Tahun"
+      ],
+      "answer": "Bawah Lima Tahun",
+      "explanation": "Balita merujuk pada anak usia di bawah lima tahun.",
+      "conversation": null,
+      "illustration": "Seorang anak kecil sedang digendong oleh ibunya."
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa nama lain dari deretan penjelas dalam teks eksplanasi?",
+      "options": [],
+      "answer": "Sebab akibat",
+      "explanation": "Bagian ini menjelaskan proses atau sebab akibat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa akronim untuk 'Badan Penyelenggara Jaminan Sosial'?",
+      "options": [
+        "BPJS",
+        "BPS",
+        "BPJ",
+        "BAS"
+      ],
+      "answer": "BPJS",
+      "explanation": "BPJS adalah singkatan resmi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Berikut adalah ciri-ciri teks eksplanasi, KECUALI...",
+      "options": [
+        "Berdasarkan fakta",
+        "Berisi pendapat pribadi penulis",
+        "Menjelaskan proses",
+        "Memuat informasi ilmiah"
+      ],
+      "answer": "Berisi pendapat pribadi penulis",
+      "explanation": "Teks eksplanasi harus objektif.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Kepanjangan dari 'TNI' adalah...",
+      "options": [],
+      "answer": "Tentara Nasional Indonesia",
+      "explanation": "TNI merupakan singkatan lembaga negara.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa istilah lain untuk 'penutup' dalam teks eksplanasi?",
+      "options": [
+        "Interpretasi",
+        "Abstraksi",
+        "Orientasi",
+        "Resolusi"
+      ],
+      "answer": "Interpretasi",
+      "explanation": "Interpretasi berisi simpulan dari penulis.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Singkatan untuk 'Yang Mulia' adalah...",
+      "options": [
+        "Ym",
+        "Yth",
+        "Ym.",
+        "Y.M."
+      ],
+      "answer": "Y.M.",
+      "explanation": "Penulisan singkatan gelar yang benar.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa akronim dari 'Pendidikan Anak Usia Dini'?",
+      "options": [],
+      "answer": "PAUD",
+      "explanation": "PAUD adalah akronim dari Pendidikan Anak Usia Dini.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Mengapa teks eksplanasi perlu disusun secara logis?",
+      "options": [
+        "Agar pembaca mudah memahami proses",
+        "Agar tulisannya panjang",
+        "Agar terlihat indah",
+        "Agar guru senang"
+      ],
+      "answer": "Agar pembaca mudah memahami proses",
+      "explanation": "Teks harus sistematis untuk memudahkan pembaca.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kepanjangan dari 'Kwitansi' yang sering disingkat 'Kwt' adalah...",
+      "options": [
+        "Kwitansi",
+        "Kwitansi",
+        "Kwitansi",
+        "Kwitansi"
+      ],
+      "answer": "Kwitansi",
+      "explanation": "Ini hanya latihan penulisan singkat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa tema yang cocok untuk teks eksplanasi tentang sampah?",
+      "options": [
+        "Dampak sampah bagi lingkungan",
+        "Indahnya sampah",
+        "Kisah seorang pemulung",
+        "Puisi tentang sampah"
+      ],
+      "answer": "Dampak sampah bagi lingkungan",
+      "explanation": "Fokus pada fenomena lingkungan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa akronim dari 'Lembaga Ilmu Pengetahuan Indonesia'?",
+      "options": [],
+      "answer": "LIPI",
+      "explanation": "LIPI adalah akronim.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Struktur 'Sebab-Akibat' dalam teks eksplanasi disebut juga...",
+      "options": [
+        "Deretan penjelas",
+        "Pernyataan umum",
+        "Interpretasi",
+        "Koda"
+      ],
+      "answer": "Deretan penjelas",
+      "explanation": "Berisi penjelasan rincian proses.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Mana yang merupakan singkatan nama orang?",
+      "options": [
+        "H. Agus",
+        "Sdn",
+        "Jl",
+        "Kec"
+      ],
+      "answer": "H. Agus",
+      "explanation": "H adalah singkatan dari Haji.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Tulislah satu contoh fenomena alam yang bisa dijadikan teks eksplanasi!",
+      "options": [],
+      "answer": "Gerhana matahari",
+      "explanation": "Fenomena ini memiliki urutan proses yang jelas.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kepanjangan dari 'Bpk' adalah...",
+      "options": [
+        "Bapak",
+        "Bapakku",
+        "Bapekak",
+        "Bapaka"
+      ],
+      "answer": "Bapak",
+      "explanation": "Singkatan standar untuk kata sapaan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Teks eksplanasi harus bersifat...",
+      "options": [
+        "Imajinatif",
+        "Subjektif",
+        "Objektif",
+        "Emosional"
+      ],
+      "answer": "Objektif",
+      "explanation": "Berdasarkan fakta, bukan perasaan penulis.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa akronim dari 'Pusat Kesehatan Masyarakat'?",
+      "options": [],
+      "answer": "Puskesmas",
+      "explanation": "Akronim populer.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa yang dimaksud dengan teks eksplanasi?",
+      "options": [
+        "Teks yang berisi opini",
+        "Teks tentang proses terjadinya sesuatu",
+        "Teks yang berisi cerita",
+        "Teks berisi perintah"
+      ],
+      "answer": "Teks tentang proses terjadinya sesuatu",
+      "explanation": "Tujuan utama teks eksplanasi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah singkatan yang benar untuk 'Jalan'?",
+      "options": [
+        "Jln",
+        "Jl.",
+        "Jalanan",
+        "Jln."
+      ],
+      "answer": "Jl.",
+      "explanation": "Singkatan yang benar sesuai EYD.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa kepanjangan dari 'UNESCO'?",
+      "options": [],
+      "answer": "United Nations Educational, Scientific and Cultural Organization",
+      "explanation": "UNESCO adalah organisasi internasional.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Apakah 'SIM' termasuk akronim?",
+      "options": [
+        "Ya",
+        "Tidak",
+        "Mungkin",
+        "Bukan keduanya"
+      ],
+      "answer": "Ya",
+      "explanation": "SIM adalah Surat Izin Mengemudi, sering disebut sebagai kata.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah yang merupakan ciri teks eksplanasi?",
+      "options": [
+        "Adanya alur cerita",
+        "Penggunaan kata teknis",
+        "Tokoh utama",
+        "Dialog antar tokoh"
+      ],
+      "answer": "Penggunaan kata teknis",
+      "explanation": "Teks eksplanasi sering menggunakan istilah ilmiah.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Kepanjangan dari 'dll.' adalah...",
+      "options": [],
+      "answer": "Dan lain-lain",
+      "explanation": "Digunakan di akhir rincian.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Dalam teks eksplanasi tentang gerhana, apa peran bagian 'penjelas'?",
+      "options": [
+        "Membuka cerita",
+        "Menutup paragraf",
+        "Menguraikan tahapan gerhana",
+        "Menanyakan pendapat pembaca"
+      ],
+      "answer": "Menguraikan tahapan gerhana",
+      "explanation": "Menjelaskan urutan kejadian.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa kepanjangan dari 'DPR'?",
+      "options": [
+        "Dewan Perwakilan Rakyat",
+        "Dewan Pemerintah Rakyat",
+        "Dewan Pendidikan Rakyat",
+        "Dewan Perwakilan Regional"
+      ],
+      "answer": "Dewan Perwakilan Rakyat",
+      "explanation": "Singkatan lembaga tinggi negara.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa singkatan dari 'Tanda Tangan'?",
+      "options": [],
+      "answer": "Ttd",
+      "explanation": "Singkatan baku.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Mana yang benar tentang akronim?",
+      "options": [
+        "Harus selalu diikuti titik",
+        "Dibaca seperti kata",
+        "Hanya untuk nama orang",
+        "Tidak boleh digunakan"
+      ],
+      "answer": "Dibaca seperti kata",
+      "explanation": "Karakteristik utama akronim.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Teks eksplanasi biasanya menjawab pertanyaan tentang...",
+      "options": [
+        "Apa dan siapa",
+        "Bagaimana dan mengapa",
+        "Dimana dan kapan",
+        "Siapa dan dimana"
+      ],
+      "answer": "Bagaimana dan mengapa",
+      "explanation": "Fokus teks eksplanasi pada proses.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa kepanjangan dari 'RI'?",
+      "options": [],
+      "answer": "Republik Indonesia",
+      "explanation": "Singkatan nama negara.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Dalam teks eksplanasi, bagian interpretasi berisi tentang...",
+      "options": [
+        "Penjelasan detail",
+        "Kesimpulan dari fenomena",
+        "Judul teks",
+        "Daftar pustaka"
+      ],
+      "answer": "Kesimpulan dari fenomena",
+      "explanation": "Interpretasi bersifat menyimpulkan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Apakah 'Kec.' merupakan singkatan?",
+      "options": [
+        "Ya",
+        "Bukan",
+        "Itu akronim",
+        "Salah ketik"
+      ],
+      "answer": "Ya",
+      "explanation": "Kec. adalah singkatan dari Kecamatan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan satu kata kerja yang sering muncul dalam teks eksplanasi!",
+      "options": [],
+      "answer": "Terjadi",
+      "explanation": "Sering digunakan untuk menjelaskan proses.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kepanjangan dari 'Kec.' adalah...",
+      "options": [
+        "Kecamatan",
+        "Kecil",
+        "Kecepatan",
+        "Kecerdasan"
+      ],
+      "answer": "Kecamatan",
+      "explanation": "Singkatan administratif.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa manfaat mempelajari teks eksplanasi?",
+      "options": [
+        "Memahami proses alam",
+        "Menjadi pandai bercerita",
+        "Bisa berpuisi",
+        "Menghafal nama orang"
+      ],
+      "answer": "Memahami proses alam",
+      "explanation": "Menambah wawasan pengetahuan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Membaca Teks Informasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa ide pokok dari paragraf yang menjelaskan tentang manfaat membuang sampah pada tempatnya untuk mencegah banjir?",
+      "options": [
+        "Cara membuat sampah",
+        "Manfaat kebersihan lingkungan",
+        "Jenis-jenis sampah organik",
+        "Proses terjadinya banjir"
+      ],
+      "answer": "Manfaat kebersihan lingkungan",
+      "explanation": "Ide pokok adalah gagasan utama yang dibahas dalam sebuah paragraf.",
+      "conversation": null,
+      "illustration": "Teks pendek tentang kebersihan lingkungan.",
+      "imageKeyword": "clean environment"
+    },
+    {
+      "materi": "Kosakata Baru",
+      "type": "isian",
+      "format": "conversation",
+      "question": "Berdasarkan percakapan tersebut, apa arti kata 'inovasi'?",
+      "options": [],
+      "answer": "Penemuan baru",
+      "explanation": "Inovasi berarti memperkenalkan sesuatu yang baru atau pembaharuan.",
+      "conversation": [
+        {
+          "speaker": "Budi",
+          "text": "Wah, alat ini sangat canggih!"
+        },
+        {
+          "speaker": "Siti",
+          "text": "Benar, ini adalah inovasi terbaru dari para ilmuwan untuk membantu petani."
+        }
+      ],
+      "illustration": "Dua anak sedang mengamati alat teknologi pertanian.",
+      "imageKeyword": "technology innovation"
+    },
+    {
+      "materi": "Teks Narasi",
+      "type": "pg",
+      "format": "comic",
+      "question": "Mengapa tokoh utama dalam komik merasa sedih?",
+      "options": [
+        "Kehilangan pensil",
+        "Nilai ujian buruk",
+        "Sepeda rusak",
+        "Tidak punya teman"
+      ],
+      "answer": "Sepeda rusak",
+      "explanation": "Dalam adegan komik, tokoh terlihat menangis di samping sepeda yang bannya bocor.",
+      "conversation": null,
+      "illustration": "Seorang anak kecil menangis melihat sepedanya yang bannya kempes.",
+      "imageKeyword": "sad child bicycle"
+    },
+    {
+      "materi": "Imbuhan Kata",
+      "type": "isian",
+      "format": "text",
+      "question": "Lengkapilah kalimat berikut: Adik sedang ____ (tulis) surat untuk nenek.",
+      "options": [],
+      "answer": "menulis",
+      "explanation": "Kata dasar tulis ditambah awalan me- menjadi menulis.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kalimat Efektif",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah kalimat berikut yang menggunakan ejaan yang benar?",
+      "options": [
+        "Budi pergi ke pasar.",
+        "budi pergi ke pasar?",
+        "Budi pergi ke pasar!",
+        "Budi Pergi Ke Pasar."
+      ],
+      "answer": "Budi pergi ke pasar.",
+      "explanation": "Awal kalimat harus huruf kapital dan diakhiri tanda titik untuk kalimat berita.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Antonim dan Sinonim",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa lawan kata (antonim) dari 'rajin'?",
+      "options": [
+        "Pandai",
+        "Malas",
+        "Sabar",
+        "Tekun"
+      ],
+      "answer": "Malas",
+      "explanation": "Lawan dari rajin adalah malas.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Prosedur",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan langkah pertama dalam membuat jus jeruk!",
+      "options": [],
+      "answer": "Mencuci jeruk hingga bersih",
+      "explanation": "Langkah pertama dalam prosedur selalu dimulai dengan persiapan bahan/kebersihan.",
+      "conversation": null,
+      "illustration": "Ilustrasi langkah-langkah membuat jus jeruk.",
+      "imageKeyword": "making orange juice"
+    },
+    {
+      "materi": "Puisi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa makna kata 'pahlawan' dalam puisi perjuangan?",
+      "options": [
+        "Orang yang berjasa",
+        "Pemain sepak bola",
+        "Penjual makanan",
+        "Siswa sekolah"
+      ],
+      "answer": "Orang yang berjasa",
+      "explanation": "Pahlawan adalah orang yang berjuang dan berjasa bagi bangsa.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "hero symbol"
+    },
+    {
+      "materi": "Tanda Baca",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan kembali kalimat ini dengan tanda baca yang benar: ibu membeli sayur bayam dan cabai",
+      "options": [],
+      "answer": "Ibu membeli sayur bayam dan cabai.",
+      "explanation": "Perlu huruf kapital di awal dan tanda titik di akhir.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Jenis Paragraf",
+      "type": "pg",
+      "format": "text",
+      "question": "Paragraf yang menjelaskan suatu peristiwa secara urut disebut paragraf...",
+      "options": [
+        "Deskripsi",
+        "Narasi",
+        "Argumentasi",
+        "Eksposisi"
+      ],
+      "answer": "Narasi",
+      "explanation": "Paragraf narasi adalah paragraf yang menceritakan urutan kejadian.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kata Hubung",
+      "type": "pg",
+      "format": "text",
+      "question": "Pilihlah kata hubung yang tepat: 'Ia ingin pergi bermain, ____ hujan turun sangat deras.'",
+      "options": [
+        "sehingga",
+        "tetapi",
+        "karena",
+        "dan"
+      ],
+      "answer": "tetapi",
+      "explanation": "Kata 'tetapi' digunakan untuk menunjukkan pertentangan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Ide Pokok",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa yang dimaksud dengan kalimat utama?",
+      "options": [],
+      "answer": "Kalimat yang mengandung ide pokok",
+      "explanation": "Kalimat utama adalah kalimat yang menjadi dasar pengembangan paragraf.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Laporan",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa isi dari laporan pengamatan lingkungan sekolah?",
+      "options": [
+        "Cerita khayalan",
+        "Fakta hasil pengamatan",
+        "Puisi indah",
+        "Dialog antar tokoh"
+      ],
+      "answer": "Fakta hasil pengamatan",
+      "explanation": "Teks laporan harus berisi fakta yang diamati.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "report writing"
+    },
+    {
+      "materi": "Imbuhan",
+      "type": "isian",
+      "format": "text",
+      "question": "Kata dasar 'lari' jika diberi imbuhan 'ber-' menjadi...",
+      "options": [],
+      "answer": "berlari",
+      "explanation": "Imbuhan ber- bertemu kata lari menjadi berlari.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kamus",
+      "type": "pg",
+      "format": "text",
+      "question": "Di dalam kamus, kata disusun berdasarkan...",
+      "options": [
+        "Panjang kata",
+        "Abjad",
+        "Jumlah suku kata",
+        "Tingkat kesulitan"
+      ],
+      "answer": "Abjad",
+      "explanation": "Kamus disusun secara alfabetis atau abjad.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "dictionary"
+    },
+    {
+      "materi": "Sastra",
+      "type": "pg",
+      "format": "comic",
+      "question": "Berdasarkan komik, watak tokoh kancil adalah...",
+      "options": [
+        "Pemarah",
+        "Licik",
+        "Cerdik",
+        "Sombong"
+      ],
+      "answer": "Cerdik",
+      "explanation": "Dalam cerita rakyat, kancil dikenal sebagai tokoh yang cerdik.",
+      "conversation": null,
+      "illustration": "Komik kancil sedang menipu buaya.",
+      "imageKeyword": "kancil smart animal"
+    },
+    {
+      "materi": "Kalimat Perintah",
+      "type": "isian",
+      "format": "text",
+      "question": "Berikan contoh satu kalimat perintah!",
+      "options": [],
+      "answer": "Tolong ambilkan buku itu!",
+      "explanation": "Kalimat perintah biasanya diakhiri tanda seru dan mengandung kata kerja.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Persuasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Tujuan dari teks persuasi adalah untuk...",
+      "options": [
+        "Menghibur pembaca",
+        "Mengajak pembaca",
+        "Menceritakan sejarah",
+        "Menggambarkan benda"
+      ],
+      "answer": "Mengajak pembaca",
+      "explanation": "Teks persuasi berisi ajakan atau bujukan kepada pembaca.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Sinonim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa sinonim dari kata 'melihat'?",
+      "options": [],
+      "answer": "Memandang",
+      "explanation": "Memandang adalah salah satu kata yang memiliki arti sama dengan melihat.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksposisi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa yang dimaksud dengan opini dalam sebuah teks?",
+      "options": [
+        "Kenyataan",
+        "Pendapat pribadi",
+        "Data angka",
+        "Sejarah kejadian"
+      ],
+      "answer": "Pendapat pribadi",
+      "explanation": "Opini adalah pandangan atau pendapat seseorang yang belum tentu fakta.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Ejaan",
+      "type": "isian",
+      "format": "text",
+      "question": "Perbaiki penulisan nama berikut: budi santoso.",
+      "options": [],
+      "answer": "Budi Santoso",
+      "explanation": "Nama orang harus diawali dengan huruf kapital.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Cerita Pendek",
+      "type": "pg",
+      "format": "text",
+      "question": "Bagian awal dalam sebuah cerita yang memperkenalkan tokoh disebut...",
+      "options": [
+        "Klimaks",
+        "Konflik",
+        "Orientasi",
+        "Resolusi"
+      ],
+      "answer": "Orientasi",
+      "explanation": "Orientasi adalah bagian pengenalan cerita.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Tanda Baca",
+      "type": "pg",
+      "format": "text",
+      "question": "Tanda baca yang digunakan untuk memisahkan rincian adalah...",
+      "options": [
+        ".",
+        ",",
+        "!",
+        "?"
+      ],
+      "answer": ",",
+      "explanation": "Tanda koma digunakan untuk memisahkan unsur dalam rincian.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kosakata",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa arti kata 'ekosistem'?",
+      "options": [],
+      "answer": "Hubungan timbal balik antara makhluk hidup dan lingkungan",
+      "explanation": "Ekosistem adalah interaksi antar makhluk hidup dan lingkungannya.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "ecosystem diagram"
+    },
+    {
+      "materi": "Teks Petunjuk",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah yang merupakan petunjuk penggunaan obat?",
+      "options": [
+        "Simpan di tempat dingin",
+        "Bahan-bahan kue",
+        "Cerita lucu",
+        "Daftar harga buku"
+      ],
+      "answer": "Simpan di tempat dingin",
+      "explanation": "Petunjuk obat biasanya berisi cara pemakaian atau penyimpanan.",
+      "conversation": null,
+      "illustration": "Label botol obat.",
+      "imageKeyword": "medicine label"
+    },
+    {
+      "materi": "Puisi",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan satu unsur intrinsik dalam puisi!",
+      "options": [],
+      "answer": "Rima",
+      "explanation": "Rima adalah persamaan bunyi dalam puisi.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kalimat Langsung",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Apa kalimat langsung yang diucapkan ibu?",
+      "options": [
+        "Ibu bilang pergi.",
+        "Ibu berkata, 'Jangan lupa makan ya.'",
+        "Ibu menyuruh makan.",
+        "Makanlah, kata ibu."
+      ],
+      "answer": "Ibu berkata, 'Jangan lupa makan ya.'",
+      "explanation": "Kalimat langsung menggunakan tanda petik.",
+      "conversation": [
+        {
+          "speaker": "Ibu",
+          "text": "Jangan lupa makan ya."
+        }
+      ],
+      "illustration": "Ibu sedang berbicara kepada anaknya.",
+      "imageKeyword": "mother talking"
+    },
+    {
+      "materi": "Teks Informasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa sumber informasi yang akurat?",
+      "options": [
+        "Gosip",
+        "Buku teks",
+        "Kata orang",
+        "Mimpi"
+      ],
+      "answer": "Buku teks",
+      "explanation": "Buku teks adalah sumber informasi yang dapat dipertanggungjawabkan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "textbook"
+    },
+    {
+      "materi": "Kata Dasar",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa kata dasar dari 'makanan'?",
+      "options": [],
+      "answer": "Makan",
+      "explanation": "Kata dasar dari makanan adalah makan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Persuasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Kalimat mana yang menunjukkan ajakan?",
+      "options": [
+        "Mari kita jaga kebersihan!",
+        "Hari ini sangat panas.",
+        "Saya sedang membaca buku.",
+        "Budi sedang belajar."
+      ],
+      "answer": "Mari kita jaga kebersihan!",
+      "explanation": "Kata 'mari' adalah kata ajakan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Unsur Cerita",
+      "type": "isian",
+      "format": "text",
+      "question": "Tokoh yang memiliki sifat baik dalam cerita disebut...",
+      "options": [],
+      "answer": "Protagonis",
+      "explanation": "Protagonis adalah tokoh utama yang biasanya berwatak baik.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Sinonim",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa persamaan kata dari 'cepat'?",
+      "options": [
+        "Lambat",
+        "Kilat",
+        "Santai",
+        "Diam"
+      ],
+      "answer": "Kilat",
+      "explanation": "Kilat memiliki arti yang sama dengan cepat.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Deskripsi",
+      "type": "pg",
+      "format": "text",
+      "question": "Paragraf yang menggambarkan suasana rumah adalah teks...",
+      "options": [
+        "Deskripsi",
+        "Narasi",
+        "Prosedur",
+        "Laporan"
+      ],
+      "answer": "Deskripsi",
+      "explanation": "Teks deskripsi berisi penggambaran objek secara rinci.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Awalan",
+      "type": "isian",
+      "format": "text",
+      "question": "Kata dasar 'sapu' jika diberi awalan 'me-' menjadi...",
+      "options": [],
+      "answer": "Menyapu",
+      "explanation": "Huruf s luluh menjadi ny jika bertemu awalan me-.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Komik",
+      "type": "pg",
+      "format": "comic",
+      "question": "Apa yang dilakukan tokoh dalam komik untuk menyelesaikan masalah?",
+      "options": [
+        "Menangis",
+        "Bekerja sama",
+        "Lari",
+        "Tidur"
+      ],
+      "answer": "Bekerja sama",
+      "explanation": "Bekerja sama adalah solusi dari masalah dalam cerita.",
+      "conversation": null,
+      "illustration": "Dua orang anak membangun jembatan bersama.",
+      "imageKeyword": "teamwork kids"
+    },
+    {
+      "materi": "Kalimat Tanya",
+      "type": "isian",
+      "format": "text",
+      "question": "Buatlah satu kalimat tanya menggunakan kata 'kapan'!",
+      "options": [],
+      "answer": "Kapan kita pergi ke sekolah?",
+      "explanation": "Kata tanya 'kapan' digunakan untuk menanyakan waktu.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Ide Pokok",
+      "type": "pg",
+      "format": "text",
+      "question": "Di mana biasanya letak ide pokok paragraf deduktif?",
+      "options": [
+        "Awal paragraf",
+        "Akhir paragraf",
+        "Tengah paragraf",
+        "Judul"
+      ],
+      "answer": "Awal paragraf",
+      "explanation": "Paragraf deduktif memiliki ide pokok di awal kalimat.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kamus",
+      "type": "isian",
+      "format": "text",
+      "question": "Buku yang berisi kumpulan kata dan artinya disebut...",
+      "options": [],
+      "answer": "Kamus",
+      "explanation": "Kamus adalah buku referensi untuk mencari makna kata.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "dictionary"
+    },
+    {
+      "materi": "Teks Prosedur",
+      "type": "pg",
+      "format": "text",
+      "question": "Kata kerja perintah dalam teks prosedur contohnya adalah...",
+      "options": [
+        "Bunga",
+        "Potong",
+        "Indah",
+        "Besar"
+      ],
+      "answer": "Potong",
+      "explanation": "Potong adalah kata kerja yang mengandung perintah.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Ejaan",
+      "type": "pg",
+      "format": "text",
+      "question": "Penulisan tempat yang benar adalah...",
+      "options": [
+        "di rumah",
+        "dirumah",
+        "Di Rumah",
+        "diRumah"
+      ],
+      "answer": "di rumah",
+      "explanation": "Kata depan 'di' dipisah jika menunjukkan tempat.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Narasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Siapa yang dimaksud dengan tokoh antagonis?",
+      "options": [],
+      "answer": "Tokoh yang berwatak jahat",
+      "explanation": "Antagonis adalah lawan dari protagonis.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Cerita Rakyat",
+      "type": "pg",
+      "format": "text",
+      "question": "Pesan moral dalam cerita disebut...",
+      "options": [
+        "Tema",
+        "Amanat",
+        "Latar",
+        "Tokoh"
+      ],
+      "answer": "Amanat",
+      "explanation": "Amanat adalah pesan yang ingin disampaikan pengarang.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "moral story"
+    },
+    {
+      "materi": "Kalimat Berita",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa akhiran tanda baca untuk kalimat berita?",
+      "options": [],
+      "answer": "Tanda titik",
+      "explanation": "Kalimat berita memberikan informasi dan diakhiri tanda titik.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Laporan",
+      "type": "pg",
+      "format": "text",
+      "question": "Salah satu bagian teks laporan hasil pengamatan adalah...",
+      "options": [
+        "Judul",
+        "Dialog",
+        "Puisi",
+        "Lirik lagu"
+      ],
+      "answer": "Judul",
+      "explanation": "Judul adalah bagian penting laporan untuk menggambarkan isi.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Sinonim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa sinonim dari kata 'pintar'?",
+      "options": [],
+      "answer": "Pandai",
+      "explanation": "Pandai memiliki arti yang sama dengan pintar.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Imbuhan",
+      "type": "pg",
+      "format": "text",
+      "question": "Imbuhan pada kata 'menanam' adalah...",
+      "options": [
+        "me-",
+        "men-",
+        "me-kan",
+        "an-"
+      ],
+      "answer": "me-",
+      "explanation": "Imbuhan pada menanam adalah me- yang berubah sesuai huruf depan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Petunjuk",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa tujuan dari teks petunjuk?",
+      "options": [],
+      "answer": "Memberikan panduan cara melakukan sesuatu",
+      "explanation": "Teks petunjuk mempermudah pengguna dalam melakukan suatu hal.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "instruction manual"
+    },
+    {
+      "materi": "Puisi",
+      "type": "pg",
+      "format": "text",
+      "question": "Cara membaca puisi yang baik melibatkan...",
+      "options": [
+        "Ekspresi dan intonasi",
+        "Berteriak",
+        "Membaca cepat",
+        "Membawa buku"
+      ],
+      "answer": "Ekspresi dan intonasi",
+      "explanation": "Membaca puisi butuh penghayatan dan intonasi yang pas.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "reciting poem"
+    },
+    {
+      "materi": "Tanda Baca",
+      "type": "isian",
+      "format": "text",
+      "question": "Tanda baca apa yang digunakan untuk mengakhiri kalimat tanya?",
+      "options": [],
+      "answer": "Tanda tanya",
+      "explanation": "Kalimat tanya selalu menggunakan tanda tanya.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kosakata",
+      "type": "pg",
+      "format": "text",
+      "question": "Kata 'sejahtera' artinya adalah...",
+      "options": [
+        "Miskin",
+        "Aman dan makmur",
+        "Sedih",
+        "Kacau"
+      ],
+      "answer": "Aman dan makmur",
+      "explanation": "Sejahtera berarti keadaan aman dan makmur.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kalimat berikut yang mengandung singkatan yang benar adalah...",
+      "options": [
+        "Ibu pergi ke Jl. Mawar.",
+        "Ayah membeli sate di jln. Sudirman.",
+        "Adik sekolah di jalan raya.",
+        "Kakak tinggal di j.l. Anggrek."
+      ],
+      "answer": "Ibu pergi ke Jl. Mawar.",
+      "explanation": "Jl. adalah singkatan resmi dari Jalan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah di antara pilihan berikut yang merupakan akronim?",
+      "options": [
+        "Dr.",
+        "Yth.",
+        "Bulog",
+        "Sdr."
+      ],
+      "answer": "Bulog",
+      "explanation": "Bulog adalah akronim dari Badan Urusan Logistik karena dibaca sebagai kata.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kepanjangan dari akronim 'Puskesmas' adalah...",
+      "options": [
+        "Pusat Kesehatan Masyarakat",
+        "Pusat Kelurahan Masyarakat",
+        "Pusat Kesehatan Masa",
+        "Pusat Keselamatan Masyarakat"
+      ],
+      "answer": "Pusat Kesehatan Masyarakat",
+      "explanation": "Puskesmas adalah akronim dari Pusat Kesehatan Masyarakat.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Judul yang paling tepat untuk teks eksplanasi tentang proses terjadinya hujan adalah...",
+      "options": [
+        "Indahnya Pelangi",
+        "Proses Terjadinya Hujan",
+        "Liburan ke Pantai",
+        "Dongeng Awan Putih"
+      ],
+      "answer": "Proses Terjadinya Hujan",
+      "explanation": "Teks eksplanasi menjelaskan proses terjadinya fenomena alam.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Tujuan utama dari teks eksplanasi adalah...",
+      "options": [
+        "Menghibur pembaca",
+        "Menjelaskan proses terjadinya sesuatu",
+        "Menceritakan pengalaman pribadi",
+        "Mengajak orang berbuat baik"
+      ],
+      "answer": "Menjelaskan proses terjadinya sesuatu",
+      "explanation": "Fungsi teks eksplanasi adalah memberikan informasi mengenai proses terjadinya fenomena.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa kepanjangan dari akronim 'Posyandu'?",
+      "options": [],
+      "answer": "Pos Pelayanan Terpadu",
+      "explanation": "Posyandu merupakan singkatan dari Pos Pelayanan Terpadu.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Berdasarkan percakapan berikut, apakah topik pembicaraan mereka?",
+      "conversation": [
+        {
+          "speaker": "Budi",
+          "text": "Tahukah kamu mengapa matahari terbit dari timur?"
+        },
+        {
+          "speaker": "Siti",
+          "text": "Karena bumi berotasi pada porosnya, Budi."
+        }
+      ],
+      "options": [
+        "Rotasi Bumi",
+        "Proses fotosintesis",
+        "Siklus air",
+        "Terjadinya pelangi"
+      ],
+      "answer": "Rotasi Bumi",
+      "explanation": "Percakapan membahas tentang penyebab matahari terbit karena rotasi bumi.",
+      "illustration": "Dua siswa sedang berdiskusi tentang pergerakan bumi.",
+      "imageKeyword": "earth rotation space"
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan bentuk singkatan dari kata 'Halaman'!",
+      "options": [],
+      "answer": "Hal.",
+      "explanation": "Penulisan singkatan halaman yang baku adalah Hal.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "comic",
+      "question": "Lihat komik ini: Gambar 1: Awan hitam berkumpul. Gambar 2: Petir menyambar. Gambar 3: Hujan turun lebat. Apakah topik teks eksplanasi yang sesuai?",
+      "options": [
+        "Siklus air",
+        "Proses terjadinya hujan",
+        "Proses terjadinya gempa",
+        "Proses terjadinya pelangi"
+      ],
+      "answer": "Proses terjadinya hujan",
+      "explanation": "Urutan gambar menunjukkan proses turunnya hujan.",
+      "conversation": null,
+      "illustration": "Tiga panel komik menunjukkan awan mendung, kilat, dan hujan.",
+      "imageKeyword": "rain cycle comic"
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Bagian teks eksplanasi yang berisi penjelasan proses disebut bagian...",
+      "options": [],
+      "answer": "Deret penjelas",
+      "explanation": "Bagian tubuh teks eksplanasi yang menjelaskan proses adalah deret penjelas.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Kalimat yang mengandung opini adalah...",
+      "options": [
+        "Hujan turun karena penguapan.",
+        "Air laut menguap terkena matahari.",
+        "Menurut saya, hujan adalah berkah.",
+        "Hujan sering terjadi di bulan Desember."
+      ],
+      "answer": "Menurut saya, hujan adalah berkah.",
+      "explanation": "Opini bersifat subjektif dan didahului kata 'menurut saya'.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa nama bagian awal dalam teks eksplanasi yang mengenalkan topik?",
+      "options": [],
+      "answer": "Pernyataan umum",
+      "explanation": "Pernyataan umum merupakan pembuka teks eksplanasi.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah di bawah ini yang merupakan akronim yang sudah menjadi kata?",
+      "options": [
+        "OSIS",
+        "PSSI",
+        "Radar",
+        "DPR"
+      ],
+      "answer": "Radar",
+      "explanation": "Radar (Radio Detection and Ranging) dibaca sebagai satu kata.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Teks eksplanasi biasanya menggunakan kata kerja yang menunjukkan...",
+      "options": [
+        "Perasaan",
+        "Proses atau tindakan",
+        "Khayalan",
+        "Pendapat pribadi"
+      ],
+      "answer": "Proses atau tindakan",
+      "explanation": "Teks eksplanasi bersifat faktual dan menjelaskan tindakan/proses.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan kepanjangan dari singkatan 'Yth.'!",
+      "options": [],
+      "answer": "Yang terhormat",
+      "explanation": "Yth. adalah singkatan baku dari Yang terhormat.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa kesimpulan dalam teks eksplanasi?",
+      "options": [
+        "Pernyataan umum",
+        "Deret penjelas",
+        "Interpretasi",
+        "Pendahuluan"
+      ],
+      "answer": "Interpretasi",
+      "explanation": "Bagian penutup berisi kesimpulan atau interpretasi penulis.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Singkatan untuk 'dan lain-lain' adalah...",
+      "options": [
+        "d.l.l.",
+        "dll.",
+        "Dkk.",
+        "dll"
+      ],
+      "answer": "dll.",
+      "explanation": "Penulisan yang benar adalah dll. (dengan titik).",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa sebutan untuk teks yang menjelaskan fenomena alam atau sosial?",
+      "options": [],
+      "answer": "Teks eksplanasi",
+      "explanation": "Teks eksplanasi adalah teks yang menjelaskan proses fenomena.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kepanjangan dari akronim 'Bappenas' adalah...",
+      "options": [
+        "Badan Perencanaan Pembangunan Nasional",
+        "Badan Perencana Pembangunan Nasional",
+        "Balai Perencanaan Pembangunan Nasional",
+        "Badan Perencana Pembangunan Negara"
+      ],
+      "answer": "Badan Perencanaan Pembangunan Nasional",
+      "explanation": "Bappenas adalah akronim dari Badan Perencanaan Pembangunan Nasional.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Mengapa teks eksplanasi bersifat objektif?",
+      "options": [
+        "Karena berdasarkan opini",
+        "Karena berdasarkan fakta",
+        "Karena menggunakan kata kiasan",
+        "Karena berisi cerita dongeng"
+      ],
+      "answer": "Karena berdasarkan fakta",
+      "explanation": "Teks eksplanasi harus berdasarkan data dan fakta.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa kepanjangan dari singkatan 'tgl.'?",
+      "options": [],
+      "answer": "Tanggal",
+      "explanation": "tgl. adalah singkatan dari tanggal.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah yang termasuk fenomena alam yang bisa dijadikan teks eksplanasi?",
+      "options": [
+        "Cara membuat kue",
+        "Proses terjadinya pelangi",
+        "Menceritakan masa kecil",
+        "Cara menanam bunga"
+      ],
+      "answer": "Proses terjadinya pelangi",
+      "explanation": "Teks eksplanasi umum membahas fenomena alam.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Akronim dari 'Surat Izin Mengemudi' adalah...",
+      "options": [
+        "SIM",
+        "Sim",
+        "S.I.M.",
+        "Siim"
+      ],
+      "answer": "SIM",
+      "explanation": "SIM merupakan akronim yang ditulis dengan huruf kapital.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan satu kata sifat yang bisa digunakan dalam teks eksplanasi!",
+      "options": [],
+      "answer": "Besar",
+      "explanation": "Banyak variasi, salah satunya kata sifat untuk mendeskripsikan fenomena.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Penulisan singkatan nama gelar yang benar adalah...",
+      "options": [
+        "S.Pd.",
+        "S,Pd",
+        "S.pd",
+        "spd"
+      ],
+      "answer": "S.Pd.",
+      "explanation": "Gelar sarjana pendidikan disingkat dengan tanda titik.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa fungsi 'deret penjelas' dalam teks eksplanasi?",
+      "options": [
+        "Sebagai pendahuluan",
+        "Sebagai penutup",
+        "Menjelaskan urutan proses",
+        "Sebagai opini penulis"
+      ],
+      "answer": "Menjelaskan urutan proses",
+      "explanation": "Bagian ini merinci sebab-akibat fenomena.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa kepanjangan dari akronim 'Jubir'?",
+      "options": [],
+      "answer": "Juru bicara",
+      "explanation": "Jubir adalah singkatan dari juru bicara.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Teks eksplanasi dilarang mengandung...",
+      "options": [
+        "Data",
+        "Fakta",
+        "Informasi",
+        "Kebohongan/Hoaks"
+      ],
+      "answer": "Kebohongan/Hoaks",
+      "explanation": "Teks eksplanasi harus akurat dan nyata.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Singkatan 'hlm.' kepanjangannya adalah...",
+      "options": [
+        "Halaman",
+        "Halaman-halaman",
+        "Halimun",
+        "Halam"
+      ],
+      "answer": "Halaman",
+      "explanation": "hlm. berarti halaman.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan satu kata hubung sebab-akibat!",
+      "options": [],
+      "answer": "Karena",
+      "explanation": "Kata 'karena' sering digunakan dalam teks eksplanasi.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah yang merupakan akronim nama organisasi?",
+      "options": [
+        "KTP",
+        "OSIS",
+        "tgl.",
+        "dll."
+      ],
+      "answer": "OSIS",
+      "explanation": "OSIS (Organisasi Siswa Intra Sekolah) adalah akronim organisasi.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa yang dimaksud dengan fenomena sosial?",
+      "options": [
+        "Kejadian alam",
+        "Kejadian di masyarakat",
+        "Kejadian di planet lain",
+        "Kejadian dalam mimpi"
+      ],
+      "answer": "Kejadian di masyarakat",
+      "explanation": "Fenomena sosial menyangkut perilaku atau kondisi masyarakat.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan bentuk akronim dari 'Pendidikan Anak Usia Dini'!",
+      "options": [],
+      "answer": "PAUD",
+      "explanation": "Pendidikan Anak Usia Dini disingkat menjadi PAUD.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apakah manfaat membaca teks eksplanasi?",
+      "options": [
+        "Menjadi sedih",
+        "Menambah pengetahuan",
+        "Mendapat banyak harta",
+        "Menghafal dongeng"
+      ],
+      "answer": "Menambah pengetahuan",
+      "explanation": "Teks eksplanasi bersifat informatif.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kepanjangan dari akronim 'KRL' adalah...",
+      "options": [
+        "Kereta Rel Listrik",
+        "Kereta Roda Listrik",
+        "Kendaraan Rel Listrik",
+        "Kereta Rel Luar"
+      ],
+      "answer": "Kereta Rel Listrik",
+      "explanation": "KRL adalah akronim dari Kereta Rel Listrik.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Bagian penutup teks eksplanasi sering disebut juga dengan...",
+      "options": [],
+      "answer": "Kesimpulan",
+      "explanation": "Penutup berisi kesimpulan atau penegasan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Singkatan untuk 'halaman' adalah...",
+      "options": [
+        "Hal",
+        "hlm.",
+        "hlam",
+        "H.l."
+      ],
+      "answer": "hlm.",
+      "explanation": "Penulisan baku adalah hlm.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa maksud dari pernyataan 'Hujan bersifat lokal'?",
+      "options": [
+        "Hujan hanya di kota",
+        "Hujan hanya di area tertentu",
+        "Hujan terjadi di seluruh dunia",
+        "Hujan tidak pernah turun"
+      ],
+      "answer": "Hujan hanya di area tertentu",
+      "explanation": "Lokal berarti di suatu tempat terbatas.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa kepanjangan dari akronim 'Puskesmas'?",
+      "options": [],
+      "answer": "Pusat Kesehatan Masyarakat",
+      "explanation": "Pusat Kesehatan Masyarakat adalah arti Puskesmas.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa saja ciri teks eksplanasi?",
+      "options": [
+        "Faktual",
+        "Imajinatif",
+        "Menghibur",
+        "Penuh teka-teki"
+      ],
+      "answer": "Faktual",
+      "explanation": "Faktual artinya berdasarkan kenyataan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Kepanjangan dari akronim 'KTP' adalah...",
+      "options": [
+        "Kartu Tanda Penduduk",
+        "Kartu Tanda Pemilih",
+        "Kartu Tanda Pengenal",
+        "Kartu Tanda Pengemudi"
+      ],
+      "answer": "Kartu Tanda Penduduk",
+      "explanation": "KTP artinya Kartu Tanda Penduduk.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "isian",
+      "format": "text",
+      "question": "Fenomena apa yang terjadi jika air dipanaskan sampai 100 derajat?",
+      "options": [],
+      "answer": "Mendidih",
+      "explanation": "Proses perubahan wujud air.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Singkatan yang benar untuk 'nomor' adalah...",
+      "options": [
+        "No.",
+        "nom",
+        "nomer",
+        "N."
+      ],
+      "answer": "No.",
+      "explanation": "Singkatan nomor yang baku adalah No.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Bagaimana cara menyusun teks eksplanasi yang baik?",
+      "options": [
+        "Menggunakan kata-kata yang sulit",
+        "Mengikuti struktur yang runtut",
+        "Menambah opini pribadi",
+        "Menulis dengan bahasa puitis"
+      ],
+      "answer": "Mengikuti struktur yang runtut",
+      "explanation": "Struktur teks eksplanasi meliputi pernyataan umum, deret penjelas, dan interpretasi.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa singkatan dari 'persamaan'?",
+      "options": [],
+      "answer": "pers.",
+      "explanation": "Singkatan umum untuk kata tersebut.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Teks Eksplanasi",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa yang dilakukan saat interpretasi dalam teks eksplanasi?",
+      "options": [
+        "Menjelaskan awal",
+        "Memberikan kesimpulan",
+        "Menuliskan sejarah",
+        "Membayangkan cerita"
+      ],
+      "answer": "Memberikan kesimpulan",
+      "explanation": "Interpretasi berisi pandangan atau kesimpulan penulis.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Singkatan dan akronim",
+      "type": "pg",
+      "format": "text",
+      "question": "Manakah singkatan yang salah?",
+      "options": [
+        "Dr. (Doktor)",
+        "Sdr. (Saudara)",
+        "Jln. (Jalan)",
+        "Hal. (Halaman)"
+      ],
+      "answer": "Jln. (Jalan)",
+      "explanation": "Singkatan yang benar untuk jalan adalah Jl.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    }
+  ],
+  "inggris": [
+    {
+      "materi": "Parts of the body & daily activities",
+      "type": "pg",
+      "format": "text",
+      "question": "I use my ... to listen to the teacher's explanation in the classroom.",
+      "options": [
+        "eyes",
+        "nose",
+        "ears",
+        "mouth"
+      ],
+      "answer": "ears",
+      "explanation": "Telinga (ears) adalah bagian tubuh yang digunakan untuk mendengarkan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Simple Future Tense",
+      "type": "pg",
+      "format": "conversation",
+      "question": "What is the correct word to complete the dialogue?",
+      "options": [
+        "will",
+        "am",
+        "do",
+        "did"
+      ],
+      "answer": "will",
+      "explanation": "Untuk menyatakan rencana di masa depan (Simple Future), kita menggunakan kata bantu 'will'.",
+      "conversation": [
+        {
+          "speaker": "Asep",
+          "text": "What will you do this weekend, Made?"
+        },
+        {
+          "speaker": "Made",
+          "text": "I ... go swimming with my brother."
+        }
+      ],
+      "illustration": null
+    },
+    {
+      "materi": "Comparatives",
+      "type": "pg",
+      "format": "text",
+      "question": "A car is ... than a bicycle.",
+      "options": [
+        "faster",
+        "slower",
+        "cheaper",
+        "smaller"
+      ],
+      "answer": "faster",
+      "explanation": "Mobil (car) lebih cepat (faster) dibandingkan dengan sepeda (bicycle).",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Daily activities",
+      "type": "pg",
+      "format": "comic",
+      "question": "Based on the scene, what is Dono doing?",
+      "options": [
+        "Brushing his teeth",
+        "Washing his hair",
+        "Eating breakfast",
+        "Playing football"
+      ],
+      "answer": "Brushing his teeth",
+      "explanation": "Adegan menunjukkan Dono membawa sikat dan pasta gigi yang menandakan ia sedang menyikat gigi.",
+      "conversation": null,
+      "illustration": "Dono is in the bathroom. He is holding a toothbrush and toothpaste in front of a mirror."
+    },
+    {
+      "materi": "Simple Present Tense",
+      "type": "pg",
+      "format": "text",
+      "question": "Every morning, Siti ... her bed before going to school.",
+      "options": [
+        "make",
+        "makes",
+        "making",
+        "made"
+      ],
+      "answer": "makes",
+      "explanation": "Untuk subjek tunggal (Siti/She) dalam Simple Present Tense, kata kerja harus ditambah akhiran -s/-es.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Adjectives",
+      "type": "isian",
+      "format": "text",
+      "question": "The opposite of the word 'tall' is ....",
+      "options": null,
+      "answer": "short",
+      "explanation": "Lawan kata (opposite) dari tinggi (tall) adalah pendek (short).",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Simple Future Tense",
+      "type": "isian",
+      "format": "text",
+      "question": "Complete the sentence with the correct form: I will ... (buy) some snacks at the canteen tomorrow.",
+      "options": null,
+      "answer": "buy",
+      "explanation": "Setelah kata 'will' dalam Simple Future Tense, kata kerja yang digunakan adalah bentuk dasar (verb 1).",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Superlatives",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Which word fits best to fill the blank?",
+      "options": [
+        "long",
+        "longer",
+        "longest",
+        "short"
+      ],
+      "answer": "longest",
+      "explanation": "Karena membandingkan tiga benda (lebih dari dua), maka kita menggunakan bentuk superlative (paling) yaitu 'longest'.",
+      "conversation": [
+        {
+          "speaker": "Rani",
+          "text": "Look at these three rulers!"
+        },
+        {
+          "speaker": "Edo",
+          "text": "The blue one is the ... of all."
+        }
+      ],
+      "illustration": null
+    },
+    {
+      "materi": "Parts of the body",
+      "type": "isian",
+      "format": "text",
+      "question": "We use our ... to walk and run.",
+      "options": null,
+      "answer": "legs",
+      "explanation": "Kaki (legs) adalah bagian tubuh yang digunakan untuk berjalan dan berlari.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Future activities",
+      "type": "pg",
+      "format": "comic",
+      "question": "Where will the family go for their holiday?",
+      "options": [
+        "To the mountain",
+        "To the beach",
+        "To the library",
+        "To the market"
+      ],
+      "answer": "To the beach",
+      "explanation": "Koper dan gambar pantai menunjukkan bahwa keluarga tersebut berencana pergi berlibur ke pantai.",
+      "conversation": null,
+      "illustration": "A family is packing their suitcases into a car. There is a picture of a sunny beach on their travel brochure."
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "text",
+      "question": "Lani says, 'My head feels very hot and painful.' What is her health problem?",
+      "options": [
+        "A. Toothache",
+        "B. Headache",
+        "C. Stomachache",
+        "D. Sore throat"
+      ],
+      "answer": "B. Headache",
+      "explanation": "Pain in the head is known as a headache.",
+      "conversation": null,
+      "illustration": "Seorang anak memegang kepalanya yang pening.",
+      "imageKeyword": "child with headache"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "conversation",
+      "question": "What is wrong with Seta?",
+      "options": [
+        "A. Toothache",
+        "B. Flu",
+        "C. Sore eyes",
+        "D. Stomachache"
+      ],
+      "answer": "A. Toothache",
+      "explanation": "Seta mentioned pain in his tooth after eating candy.",
+      "conversation": [
+        {
+          "speaker": "Seta",
+          "text": "Ouch! My tooth hurts a lot."
+        },
+        {
+          "speaker": "Teacher",
+          "text": "Are you okay, Seta?"
+        },
+        {
+          "speaker": "Seta",
+          "text": "Yes, I ate too many candies yesterday."
+        }
+      ],
+      "illustration": "Seta memegang pipinya karena sakit gigi.",
+      "imageKeyword": "child with toothache"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "What do you wear on your feet to protect them when you walk outside?",
+      "options": null,
+      "answer": "Shoes",
+      "explanation": "Shoes are worn on the feet.",
+      "conversation": null,
+      "illustration": "Gambar sepatu sekolah.",
+      "imageKeyword": "pair of shoes"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "comic",
+      "question": "Look at the comic scene. What is Cici wearing to protect herself from the rain?",
+      "options": [
+        "A. A sweater",
+        "B. A raincoat",
+        "C. A t-shirt",
+        "D. A hat"
+      ],
+      "answer": "B. A raincoat",
+      "explanation": "A raincoat is used to stay dry during rain.",
+      "conversation": null,
+      "illustration": "Cici sedang memakai jas hujan saat hujan turun.",
+      "imageKeyword": "child wearing raincoat"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "text",
+      "question": "What do you usually do in the morning before school?",
+      "options": [
+        "A. Have dinner",
+        "B. Sleep",
+        "C. Have breakfast",
+        "D. Go to bed"
+      ],
+      "answer": "C. Have breakfast",
+      "explanation": "Breakfast is the meal eaten in the morning.",
+      "conversation": null,
+      "illustration": "Seseorang sedang sarapan di meja makan.",
+      "imageKeyword": "family having breakfast"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "isian",
+      "format": "text",
+      "question": "If you have a runny nose and keep sneezing, you have a ____.",
+      "options": null,
+      "answer": "Cold",
+      "explanation": "Runny nose and sneezing are common symptoms of a cold.",
+      "conversation": null,
+      "illustration": "Anak bersin dengan tisu.",
+      "imageKeyword": "child sneezing cold"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "text",
+      "question": "It is very cold outside. What should you wear?",
+      "options": [
+        "A. Sandals",
+        "B. A jacket",
+        "C. Shorts",
+        "D. A thin t-shirt"
+      ],
+      "answer": "B. A jacket",
+      "explanation": "A jacket keeps your body warm in cold weather.",
+      "conversation": null,
+      "illustration": "Orang memakai jaket tebal.",
+      "imageKeyword": "person wearing jacket"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "conversation",
+      "question": "When does Made go to the library?",
+      "options": [
+        "A. Monday",
+        "B. Tuesday",
+        "C. Wednesday",
+        "D. Thursday"
+      ],
+      "answer": "B. Tuesday",
+      "explanation": "Made says he goes to the library on Tuesday.",
+      "conversation": [
+        {
+          "speaker": "Made",
+          "text": "I usually go to the library after school."
+        },
+        {
+          "speaker": "Teacher",
+          "text": "What day do you go there?"
+        },
+        {
+          "speaker": "Made",
+          "text": "Every Tuesday, Ma'am."
+        }
+      ],
+      "illustration": "Siswa membaca buku di perpustakaan.",
+      "imageKeyword": "student in library"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "We wear a ____ to cover our head from the sun.",
+      "options": null,
+      "answer": "Hat",
+      "explanation": "A hat is used to protect the head.",
+      "conversation": null,
+      "illustration": "Topi matahari.",
+      "imageKeyword": "sun hat"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "text",
+      "question": "My eyes are red and itchy. What is my health problem?",
+      "options": [
+        "A. Sore eyes",
+        "B. Sore throat",
+        "C. Stomachache",
+        "D. Headache"
+      ],
+      "answer": "A. Sore eyes",
+      "explanation": "Red and itchy eyes are symptoms of sore eyes.",
+      "conversation": null,
+      "illustration": "Mata yang memerah.",
+      "imageKeyword": "red irritated eyes"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "text",
+      "question": "Which one is a daily activity at school?",
+      "options": [
+        "A. Sleeping",
+        "B. Watching TV",
+        "C. Studying",
+        "D. Cooking"
+      ],
+      "answer": "C. Studying",
+      "explanation": "Studying is the main activity at school.",
+      "conversation": null,
+      "illustration": "Siswa belajar di kelas.",
+      "imageKeyword": "students studying class"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "What do we call the clothes we wear for swimming?",
+      "options": null,
+      "answer": "Swimsuit",
+      "explanation": "A swimsuit is specific clothing for swimming.",
+      "conversation": null,
+      "illustration": "Baju renang.",
+      "imageKeyword": "swimsuit"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "comic",
+      "question": "In the comic, the doctor tells the boy to drink medicine. Why?",
+      "options": [
+        "A. Because he is healthy",
+        "B. Because he is sick",
+        "C. Because he wants to sleep",
+        "D. Because he is hungry"
+      ],
+      "answer": "B. Because he is sick",
+      "explanation": "Doctors give medicine to sick people.",
+      "conversation": null,
+      "illustration": "Dokter memeriksa anak yang sakit.",
+      "imageKeyword": "doctor checking patient"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "isian",
+      "format": "text",
+      "question": "Before we go to bed, we usually ____ our teeth.",
+      "options": null,
+      "answer": "Brush",
+      "explanation": "Brushing teeth is part of the night routine.",
+      "conversation": null,
+      "illustration": "Anak menyikat gigi.",
+      "imageKeyword": "child brushing teeth"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "text",
+      "question": "What is the English for 'seragam sekolah'?",
+      "options": [
+        "A. Casual clothes",
+        "B. School uniform",
+        "C. Sport suit",
+        "D. Pyjamas"
+      ],
+      "answer": "B. School uniform",
+      "explanation": "Uniform for school is called school uniform.",
+      "conversation": null,
+      "illustration": "Anak memakai seragam sekolah.",
+      "imageKeyword": "school uniform"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "text",
+      "question": "If you have a stomachache, what should you do?",
+      "options": [
+        "A. Eat spicy food",
+        "B. Sleep all day",
+        "C. Drink warm water and rest",
+        "D. Run fast"
+      ],
+      "answer": "C. Drink warm water and rest",
+      "explanation": "Resting and drinking warm water helps with stomachache.",
+      "conversation": null,
+      "illustration": "Anak beristirahat karena sakit perut.",
+      "imageKeyword": "child resting stomachache"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "isian",
+      "format": "text",
+      "question": "We wake up in the ____.",
+      "options": null,
+      "answer": "Morning",
+      "explanation": "We start our day in the morning.",
+      "conversation": null,
+      "illustration": "Matahari terbit.",
+      "imageKeyword": "morning sunrise"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "conversation",
+      "question": "What is Aisha wearing for the party?",
+      "options": [
+        "A. A shirt",
+        "B. A dress",
+        "C. A skirt",
+        "D. A jacket"
+      ],
+      "answer": "B. A dress",
+      "explanation": "Aisha said she is wearing a beautiful dress.",
+      "conversation": [
+        {
+          "speaker": "Budi",
+          "text": "You look great, Aisha!"
+        },
+        {
+          "speaker": "Aisha",
+          "text": "Thank you. I am wearing my new red dress."
+        },
+        {
+          "speaker": "Budi",
+          "text": "It suits you very well."
+        }
+      ],
+      "illustration": "Gadis memakai gaun pesta.",
+      "imageKeyword": "girl wearing dress"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "isian",
+      "format": "text",
+      "question": "Someone who helps a sick person is a ____.",
+      "options": null,
+      "answer": "Doctor",
+      "explanation": "A doctor treats patients.",
+      "conversation": null,
+      "illustration": "Dokter dengan stetoskop.",
+      "imageKeyword": "doctor stethoscope"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "text",
+      "question": "Which is an activity we do at home?",
+      "options": [
+        "A. Sweeping the floor",
+        "B. Studying in class",
+        "C. Playing on the field",
+        "D. Reading in the library"
+      ],
+      "answer": "A. Sweeping the floor",
+      "explanation": "Sweeping the floor is a common house chore.",
+      "conversation": null,
+      "illustration": "Anak menyapu lantai.",
+      "imageKeyword": "child sweeping floor"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "text",
+      "question": "You wear ____ on your feet before you put on your shoes.",
+      "options": [
+        "A. Gloves",
+        "B. Socks",
+        "C. Belts",
+        "D. Scarves"
+      ],
+      "answer": "B. Socks",
+      "explanation": "Socks are worn inside shoes.",
+      "conversation": null,
+      "illustration": "Sepasang kaos kaki.",
+      "imageKeyword": "pair of socks"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "isian",
+      "format": "text",
+      "question": "When you have a fever, your body feels ____.",
+      "options": null,
+      "answer": "Hot",
+      "explanation": "Fever makes the body temperature rise.",
+      "conversation": null,
+      "illustration": "Anak dengan kompres di dahi.",
+      "imageKeyword": "child with fever"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "comic",
+      "question": "In the comic, what time does the boy go to sleep?",
+      "options": [
+        "A. 7 PM",
+        "B. 8 PM",
+        "C. 9 PM",
+        "D. 10 PM"
+      ],
+      "answer": "C. 9 PM",
+      "explanation": "The boy says he goes to bed at 9 PM.",
+      "conversation": null,
+      "illustration": "Jam dinding menunjukkan pukul 9 malam.",
+      "imageKeyword": "clock showing 9pm"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "A ____ is a piece of clothing worn around the neck when it's cold.",
+      "options": null,
+      "answer": "Scarf",
+      "explanation": "A scarf is used for warmth around the neck.",
+      "conversation": null,
+      "illustration": "Orang memakai syal.",
+      "imageKeyword": "winter scarf"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "text",
+      "question": "What is the best way to prevent a toothache?",
+      "options": [
+        "A. Eat lots of candy",
+        "B. Never brush teeth",
+        "C. Brush teeth regularly",
+        "D. Drink soda"
+      ],
+      "answer": "C. Brush teeth regularly",
+      "explanation": "Brushing teeth keeps them healthy.",
+      "conversation": null,
+      "illustration": "Sikat gigi dan pasta gigi.",
+      "imageKeyword": "toothbrush toothpaste"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "text",
+      "question": "Which activity involves exercise?",
+      "options": [
+        "A. Reading",
+        "B. Jogging",
+        "C. Drawing",
+        "D. Sleeping"
+      ],
+      "answer": "B. Jogging",
+      "explanation": "Jogging is a form of physical exercise.",
+      "conversation": null,
+      "illustration": "Orang sedang lari pagi.",
+      "imageKeyword": "person jogging"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "A ____ is worn over a shirt to keep the upper body warm.",
+      "options": null,
+      "answer": "Sweater",
+      "explanation": "A sweater is a warm knitted garment.",
+      "conversation": null,
+      "illustration": "Orang memakai sweater.",
+      "imageKeyword": "warm sweater"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Why is Ibu Sari staying in bed?",
+      "options": [
+        "A. She is tired",
+        "B. She has a flu",
+        "C. She wants to read",
+        "D. She is bored"
+      ],
+      "answer": "B. She has a flu",
+      "explanation": "Ibu Sari is sick with the flu.",
+      "conversation": [
+        {
+          "speaker": "Rian",
+          "text": "Where is Ibu Sari?"
+        },
+        {
+          "speaker": "Ayah",
+          "text": "She is in bed. She has the flu and feels weak."
+        },
+        {
+          "speaker": "Rian",
+          "text": "I hope she gets well soon."
+        }
+      ],
+      "illustration": "Ibu sedang berbaring di tempat tidur.",
+      "imageKeyword": "woman resting in bed"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "isian",
+      "format": "text",
+      "question": "We ____ dinner in the evening.",
+      "options": null,
+      "answer": "Eat",
+      "explanation": "Dinner is eaten in the evening.",
+      "conversation": null,
+      "illustration": "Keluarga makan malam.",
+      "imageKeyword": "family dinner"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "text",
+      "question": "What do we use to carry our books to school?",
+      "options": [
+        "A. A handbag",
+        "B. A backpack",
+        "C. A plastic bag",
+        "D. A box"
+      ],
+      "answer": "B. A backpack",
+      "explanation": "A backpack is the standard bag for students.",
+      "conversation": null,
+      "illustration": "Tas ransel sekolah.",
+      "imageKeyword": "school backpack"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "text",
+      "question": "Which of these is a healthy habit?",
+      "options": [
+        "A. Washing hands before eating",
+        "B. Sleeping until noon",
+        "C. Eating junk food",
+        "D. Staying up late"
+      ],
+      "answer": "A. Washing hands before eating",
+      "explanation": "Hygiene prevents illness.",
+      "conversation": null,
+      "illustration": "Anak mencuci tangan.",
+      "imageKeyword": "washing hands"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "isian",
+      "format": "text",
+      "question": "On Sundays, we usually ____ our house.",
+      "options": null,
+      "answer": "Clean",
+      "explanation": "Sunday is a common day for household chores.",
+      "conversation": null,
+      "illustration": "Keluarga membersihkan rumah.",
+      "imageKeyword": "cleaning house"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "comic",
+      "question": "In the comic, what is the color of the boy's shirt?",
+      "options": [
+        "A. Red",
+        "B. Blue",
+        "C. Green",
+        "D. Yellow"
+      ],
+      "answer": "B. Blue",
+      "explanation": "The boy wears a blue shirt in the comic.",
+      "conversation": null,
+      "illustration": "Anak laki-laki berbaju biru.",
+      "imageKeyword": "boy blue shirt"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "isian",
+      "format": "text",
+      "question": "When we have a cough, we should drink ____ water.",
+      "options": null,
+      "answer": "Warm",
+      "explanation": "Warm water soothes the throat during a cough.",
+      "conversation": null,
+      "illustration": "Segelas air hangat.",
+      "imageKeyword": "glass warm water"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "text",
+      "question": "How often do you go to school?",
+      "options": [
+        "A. Every day",
+        "B. Every night",
+        "C. Once a month",
+        "D. Once a year"
+      ],
+      "answer": "A. Every day",
+      "explanation": "School happens during the weekdays.",
+      "conversation": null,
+      "illustration": "Gedung sekolah.",
+      "imageKeyword": "school building"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "text",
+      "question": "A belt is worn to hold your...",
+      "options": [
+        "A. Shirt",
+        "B. Trousers",
+        "C. Socks",
+        "D. Hat"
+      ],
+      "answer": "B. Trousers",
+      "explanation": "Belts are used to keep trousers in place.",
+      "conversation": null,
+      "illustration": "Ikat pinggang.",
+      "imageKeyword": "leather belt"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "isian",
+      "format": "text",
+      "question": "The medicine we take for a headache is a ____.",
+      "options": null,
+      "answer": "Tablet",
+      "explanation": "Headache medicine is usually a tablet.",
+      "conversation": null,
+      "illustration": "Obat berbentuk tablet.",
+      "imageKeyword": "medicine tablet"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "conversation",
+      "question": "What is Dinda doing?",
+      "options": [
+        "A. Cleaning",
+        "B. Studying",
+        "C. Eating",
+        "D. Gardening"
+      ],
+      "answer": "D. Gardening",
+      "explanation": "Dinda mentions she is planting flowers.",
+      "conversation": [
+        {
+          "speaker": "Mother",
+          "text": "What are you doing, Dinda?"
+        },
+        {
+          "speaker": "Dinda",
+          "text": "I am gardening, Mom. I am planting some roses."
+        },
+        {
+          "speaker": "Mother",
+          "text": "That's lovely."
+        }
+      ],
+      "illustration": "Anak berkebun.",
+      "imageKeyword": "child gardening"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "A ____ is a piece of clothing for women, usually with a skirt.",
+      "options": null,
+      "answer": "Dress",
+      "explanation": "A dress is a common garment for women and girls.",
+      "conversation": null,
+      "illustration": "Gaun perempuan.",
+      "imageKeyword": "woman dress"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "text",
+      "question": "What do you say to someone who is sick?",
+      "options": [
+        "A. Get well soon",
+        "B. Good night",
+        "C. Happy birthday",
+        "D. See you later"
+      ],
+      "answer": "A. Get well soon",
+      "explanation": "This is a polite wish for recovery.",
+      "conversation": null,
+      "illustration": "Kartu ucapan lekas sembuh.",
+      "imageKeyword": "get well soon card"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "text",
+      "question": "What do we do in the library?",
+      "options": [
+        "A. Play soccer",
+        "B. Read books",
+        "C. Buy food",
+        "D. Sleep"
+      ],
+      "answer": "B. Read books",
+      "explanation": "Libraries are for reading and studying.",
+      "conversation": null,
+      "illustration": "Buku-buku di rak.",
+      "imageKeyword": "books on shelf"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "We wear ____ on our hands in winter.",
+      "options": null,
+      "answer": "Gloves",
+      "explanation": "Gloves keep hands warm.",
+      "conversation": null,
+      "illustration": "Sepasang sarung tangan.",
+      "imageKeyword": "pair of gloves"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "comic",
+      "question": "The boy in the comic has a stomachache. What did he do?",
+      "options": [
+        "A. Drank milk",
+        "B. Ate too much spicy food",
+        "C. Ate fruit",
+        "D. Drank water"
+      ],
+      "answer": "B. Ate too much spicy food",
+      "explanation": "Spicy food often causes stomach pain.",
+      "conversation": null,
+      "illustration": "Anak memegang perut karena pedas.",
+      "imageKeyword": "child spicy stomachache"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "isian",
+      "format": "text",
+      "question": "We have lunch in the ____.",
+      "options": null,
+      "answer": "Afternoon",
+      "explanation": "Lunch is typically around noon or early afternoon.",
+      "conversation": null,
+      "illustration": "Makan siang.",
+      "imageKeyword": "lunch meal"
+    },
+    {
+      "materi": "Clothes",
+      "type": "pg",
+      "format": "text",
+      "question": "Which one is footwear?",
+      "options": [
+        "A. T-shirt",
+        "B. Trousers",
+        "C. Sandals",
+        "D. Hat"
+      ],
+      "answer": "C. Sandals",
+      "explanation": "Sandals are worn on the feet.",
+      "conversation": null,
+      "illustration": "Sepasang sandal.",
+      "imageKeyword": "pair of sandals"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "isian",
+      "format": "text",
+      "question": "You should see a ____ if your tooth hurts.",
+      "options": null,
+      "answer": "Dentist",
+      "explanation": "A dentist is a doctor for teeth.",
+      "conversation": null,
+      "illustration": "Dokter gigi.",
+      "imageKeyword": "dentist"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "pg",
+      "format": "conversation",
+      "question": "What is Andi doing after school?",
+      "options": [
+        "A. Playing video games",
+        "B. Doing homework",
+        "C. Cleaning",
+        "D. Gardening"
+      ],
+      "answer": "B. Doing homework",
+      "explanation": "Andi says he is doing his homework.",
+      "conversation": [
+        {
+          "speaker": "Ayah",
+          "text": "Are you going to play?"
+        },
+        {
+          "speaker": "Andi",
+          "text": "Not yet, Dad. I need to finish my homework first."
+        },
+        {
+          "speaker": "Ayah",
+          "text": "Good boy."
+        }
+      ],
+      "illustration": "Anak mengerjakan PR.",
+      "imageKeyword": "child doing homework"
+    },
+    {
+      "materi": "Clothes",
+      "type": "isian",
+      "format": "text",
+      "question": "A ____ covers your body and protects it from cold and sun.",
+      "options": null,
+      "answer": "Shirt",
+      "explanation": "A shirt is basic clothing for the upper body.",
+      "conversation": null,
+      "illustration": "Kemeja.",
+      "imageKeyword": "buttoned shirt"
+    },
+    {
+      "materi": "Health and Illness",
+      "type": "pg",
+      "format": "text",
+      "question": "Why do we wash our hands?",
+      "options": [
+        "A. To make them wet",
+        "B. To remove dirt and germs",
+        "C. To make them smell nice",
+        "D. Because we are bored"
+      ],
+      "answer": "B. To remove dirt and germs",
+      "explanation": "Washing hands kills germs.",
+      "conversation": null,
+      "illustration": "Sabun cuci tangan.",
+      "imageKeyword": "hand soap"
+    },
+    {
+      "materi": "Daily Activities",
+      "type": "isian",
+      "format": "text",
+      "question": "We ____ when we are tired.",
+      "options": null,
+      "answer": "Rest",
+      "explanation": "Resting helps regain energy.",
+      "conversation": null,
+      "illustration": "Orang beristirahat.",
+      "imageKeyword": "person resting"
+    }
+  ],
+  "lampung": [
+    {
+      "materi": "Makanan Khas Lampung",
+      "type": "pg",
+      "format": "text",
+      "question": "Makanan khas Lampung yang terbuat dari bahan dasar ikan dan dibungkus dengan daun pisang adalah...",
+      "options": [
+        "Seruit",
+        "Gulai Taboh",
+        "Pepes Ikan",
+        "Pisro"
+      ],
+      "answer": "Pisro",
+      "explanation": "Pisro adalah salah satu makanan tradisional khas Lampung yang berbahan dasar ikan yang dibakar lalu dimasak dengan bumbu dan dibungkus daun pisang.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Makanan Khas Lampung",
+      "type": "isian",
+      "format": "comic",
+      "question": "Perhatikan adegan berikut: Budi sedang menikmati kue manis berbentuk bulat dari tepung ketan yang disiram gula merah. Apa nama kue khas Lampung tersebut?",
+      "options": null,
+      "answer": "Kue Sekubal",
+      "explanation": "Sekubal adalah makanan/kue khas Lampung yang terbuat dari ketan dan santan, sering disajikan dalam acara adat.",
+      "conversation": [
+        {
+          "speaker": "Budi",
+          "text": "Wah, kue ini sangat enak dan legit!"
+        },
+        {
+          "speaker": "Ibu",
+          "text": "Itu adalah makanan kebanggaan daerah kita, namanya Sekubal."
+        }
+      ],
+      "illustration": "Seorang anak sedang makan kue tradisional yang dibungkus daun pisang berbentuk bulat.",
+      "imageKeyword": "traditional indonesian cake"
+    },
+    {
+      "materi": "Sastra Klasik Lampung",
+      "type": "pg",
+      "format": "text",
+      "question": "Salah satu bentuk sastra klasik lisan Lampung yang disampaikan dengan cara melantunkan syair sambil diiringi musik disebut...",
+      "options": [
+        "Bubandung",
+        "Paradewi",
+        "Wawancan",
+        "Ringget"
+      ],
+      "answer": "Bubandung",
+      "explanation": "Bubandung adalah sastra lisan Lampung yang berupa pelantunan syair-syair klasik dengan irama khas.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Aksara Lampung",
+      "type": "pg",
+      "format": "text",
+      "question": "Jumlah anak surat (tanda baca) dalam aksara Lampung adalah sebanyak...",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "answer": "12",
+      "explanation": "Dalam aksara Lampung, terdapat 12 jenis anak surat yang berfungsi sebagai pemberi bunyi vokal.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Piil Pesenggiri",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa makna dari filosofi 'Piil Pesenggiri' dalam kehidupan masyarakat Lampung?",
+      "options": [
+        "Hidup hemat dan cermat",
+        "Menjaga harga diri dan kehormatan",
+        "Selalu menuntut ilmu",
+        "Bekerja keras setiap hari"
+      ],
+      "answer": "Menjaga harga diri dan kehormatan",
+      "explanation": "Piil Pesenggiri adalah pandangan hidup masyarakat Lampung yang menekankan pada kehormatan, harga diri, dan tata krama.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Aksara Lampung",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan satu contoh kata dalam bahasa Lampung yang memiliki bunyi aksara 'Nga'!",
+      "options": null,
+      "answer": "Ngupi",
+      "explanation": "Kata 'Ngupi' (minum kopi) menggunakan bunyi aksara 'Nga' di awal kata.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Peribahasa Lampung",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Perhatikan dialog berikut. Apa fungsi peribahasa yang diucapkan Ayah?",
+      "options": [
+        "Menasihati agar rajin bekerja",
+        "Memuji keberanian seseorang",
+        "Menghibur orang sedih",
+        "Mengajak bermain"
+      ],
+      "answer": "Menasihati agar rajin bekerja",
+      "explanation": "Peribahasa 'Rajin pakkal pandai' berarti rajin adalah pangkal kepandaian, yang fungsinya untuk memotivasi anak agar rajin belajar.",
+      "conversation": [
+        {
+          "speaker": "Ayah",
+          "text": "Nak, jangan lupa belajar. Ingat, rajin pakkal pandai."
+        },
+        {
+          "speaker": "Anak",
+          "text": "Baik Ayah, aku akan belajar dengan tekun."
+        }
+      ],
+      "illustration": "Seorang ayah menasihati anaknya di meja belajar.",
+      "imageKeyword": "father teaching child"
+    },
+    {
+      "materi": "Sikap Bangga sebagai Bangsa",
+      "type": "pg",
+      "format": "text",
+      "question": "Salah satu bentuk sikap bangga sebagai bangsa Indonesia yang mencerminkan nilai budaya Lampung adalah...",
+      "options": [
+        "Memakai baju adat di acara resmi",
+        "Meniru budaya asing",
+        "Hanya berteman dengan suku yang sama",
+        "Tidak peduli dengan bahasa daerah"
+      ],
+      "answer": "Memakai baju adat di acara resmi",
+      "explanation": "Menggunakan busana adat adalah bentuk nyata pelestarian budaya dan rasa bangga terhadap identitas bangsa.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "traditional clothes indonesia"
+    },
+    {
+      "materi": "Aksara Lampung",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan aksara Lampung untuk bunyi vokal 'i' yang berada di atas huruf dasar disebut anak surat...",
+      "options": null,
+      "answer": "Tekelubang",
+      "explanation": "Tekelubang adalah nama anak surat dalam aksara Lampung untuk memberikan bunyi 'i'.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": null
+    },
+    {
+      "materi": "Kerukunan Hidup",
+      "type": "pg",
+      "format": "comic",
+      "question": "Dua orang berbeda suku sedang bekerja bakti membersihkan lingkungan. Sikap ini merupakan wujud dari...",
+      "options": [
+        "Piil Pesenggiri",
+        "Sikap individualis",
+        "Kerukunan hidup",
+        "Persaingan usaha"
+      ],
+      "answer": "Kerukunan hidup",
+      "explanation": "Gotong royong membersihkan lingkungan adalah contoh nyata kerukunan hidup antarwarga.",
+      "conversation": [
+        {
+          "speaker": "Warga A",
+          "text": "Mari kita bersihkan selokan ini bersama agar lingkungan kita bersih."
+        },
+        {
+          "speaker": "Warga B",
+          "text": "Setuju! Meskipun kita berbeda suku, kita tetap harus rukun."
+        }
+      ],
+      "illustration": "Dua orang warga sedang membersihkan selokan bersama-sama.",
+      "imageKeyword": "community service cleanup"
+    }
+  ],
+  "ipas": [
+    {
+      "materi": "Letak Astronomis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Garis khayal yang melingkari bumi secara horizontal dan membagi bumi menjadi bagian Utara dan Selatan disebut sebagai...",
+      "options": [
+        "Garis Bujur",
+        "Garis Lintang",
+        "Garis Meridiant",
+        "Garis Diagonal"
+      ],
+      "answer": "Garis Lintang",
+      "explanation": "Garis lintang adalah garis khayal horizontal yang membagi bumi menjadi belahan Utara (LU) dan Selatan (LS).",
+      "conversation": null,
+      "illustration": "Globe dengan garis-garis mendatar yang melingkar."
+    },
+    {
+      "materi": "Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Berdasarkan percakapan tersebut, di antara dua benua manakah posisi negara Indonesia berada secara geografis?",
+      "options": [
+        "Asia dan Australia",
+        "Asia dan Eropa",
+        "Amerika dan Afrika",
+        "Australia dan Antartika"
+      ],
+      "answer": "Asia dan Australia",
+      "explanation": "Secara geografis, Indonesia terletak di antara Benua Asia dan Benua Australia.",
+      "conversation": [
+        {
+          "speaker": "Budi",
+          "text": "Wan, kamu tahu tidak kenapa posisi Indonesia dikatakan sangat strategis?"
+        },
+        {
+          "speaker": "Iwan",
+          "text": "Tahu dong! Itu karena Indonesia berada di antara dua samudera dan dua benua yang besar."
+        }
+      ],
+      "illustration": "Peta dunia sederhana yang menunjukkan Indonesia di tengah Asia dan Australia."
+    },
+    {
+      "materi": "Letak Astronomis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Garis khayal yang menghubungkan kutub utara dan kutub selatan bumi, serta digunakan untuk menentukan pembagian waktu disebut garis...",
+      "options": null,
+      "answer": "Bujur",
+      "explanation": "Garis bujur adalah garis khayal vertikal yang menentukan zona waktu di berbagai belahan dunia.",
+      "conversation": null,
+      "illustration": "Globe dengan garis-garis tegak lurus dari kutub ke kutub."
+    },
+    {
+      "materi": "Batas Wilayah Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Negara yang berbatasan darat secara langsung dengan Indonesia di bagian Utara pulau Kalimantan adalah...",
+      "options": [
+        "Singapura",
+        "Malaysia",
+        "Timor Leste",
+        "Papua Nugini"
+      ],
+      "answer": "Malaysia",
+      "explanation": "Malaysia (wilayah Sarawak dan Sabah) berbatasan darat langsung dengan Kalimantan Utara dan Kalimantan Barat.",
+      "conversation": null,
+      "illustration": "Peta pulau Kalimantan dengan garis batas negara di bagian atas."
+    },
+    {
+      "materi": "Jenis-Jenis Peta",
+      "type": "pg",
+      "format": "comic",
+      "question": "Peta yang digunakan oleh Bu Guru untuk menunjukkan persebaran tambang emas dan batu bara tersebut termasuk jenis peta...",
+      "options": [
+        "Peta Umum",
+        "Peta Dunia",
+        "Peta Tematik",
+        "Peta Korografi"
+      ],
+      "answer": "Peta Tematik",
+      "explanation": "Peta tematik adalah peta yang menggambarkan informasi khusus atau tema tertentu, seperti hasil tambang atau curah hujan.",
+      "conversation": null,
+      "illustration": "Adegan komik: Seorang guru menunjuk peta yang dipenuhi simbol-simbol kecil gambar emas dan batu bara."
+    },
+    {
+      "materi": "Pembagian Zona Waktu",
+      "type": "pg",
+      "format": "text",
+      "question": "Jika di Jakarta (WIB) menunjukkan pukul 09.00 WIB, maka di Kota Jayapura (WIT) menunjukkan pukul...",
+      "options": [
+        "08.00 WIT",
+        "10.00 WIT",
+        "11.00 WIT",
+        "12.00 WIT"
+      ],
+      "answer": "11.00 WIT",
+      "explanation": "Selisih waktu antara WIB dan WIT adalah 2 jam, di mana wilayah Timur (WIT) lebih cepat dibandingkan Barat (WIB).",
+      "conversation": null,
+      "illustration": "Tiga jam dinding menunjukkan zona waktu WIB, WITA, dan WIT."
+    },
+    {
+      "materi": "Kondisi Geografis Tropis",
+      "type": "isian",
+      "format": "text",
+      "question": "Karena letak astronomisnya berada di sekitar garis khatulistiwa, maka negara Indonesia secara umum memiliki iklim...",
+      "options": null,
+      "answer": "Tropis",
+      "explanation": "Indonesia beriklim tropis dengan ciri curah hujan tinggi dan sinar matahari sepanjang tahun.",
+      "conversation": null,
+      "illustration": "Gambar matahari cerah menyinari hutan hujan yang lebat."
+    },
+    {
+      "materi": "Geografi Kepulauan",
+      "type": "pg",
+      "format": "text",
+      "question": "Perhatikan ciri berikut: memiliki bentuk unik seperti huruf 'K'. Pulau besar yang dimaksud adalah pulau...",
+      "options": [
+        "Sumatra",
+        "Kalimantan",
+        "Sulawesi",
+        "Papua"
+      ],
+      "answer": "Sulawesi",
+      "explanation": "Pulau Sulawesi dikenal memiliki bentuk khas yang menyerupai huruf K.",
+      "conversation": null,
+      "illustration": "Siluet peta pulau Sulawesi yang menyerupai huruf K."
+    },
+    {
+      "materi": "Karakteristik Wilayah",
+      "type": "pg",
+      "format": "text",
+      "question": "Salah satu ciri utama dari wilayah dataran tinggi yang mempengaruhi kegiatan ekonominya adalah...",
+      "options": [
+        "Suhu udara yang sangat panas",
+        "Tanah berpasir dan gersang",
+        "Udara sejuk dan tanah yang subur",
+        "Dekat dengan pelabuhan internasional"
+      ],
+      "answer": "Udara sejuk dan tanah yang subur",
+      "explanation": "Dataran tinggi memiliki udara sejuk dan tanah subur yang sangat cocok untuk perkebunan seperti teh dan sayuran.",
+      "conversation": null,
+      "illustration": "Tabel berisi kolom Ciri Geografis dan Pemanfaatan Lahan."
+    },
+    {
+      "materi": "Mata Pencaharian & SDA",
+      "type": "isian",
+      "format": "text",
+      "question": "Masyarakat yang tinggal di daerah sekitar pantai biasanya memanfaatkan sumber daya alam laut dengan bekerja sebagai...",
+      "options": null,
+      "answer": "Nelayan",
+      "explanation": "Letak geografis di pesisir membuat masyarakatnya cenderung memiliki mata pencaharian yang berkaitan dengan laut, yaitu nelayan.",
+      "conversation": null,
+      "illustration": "Pemandangan pantai dengan perahu kayu dan jaring penangkap ikan."
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Garis khayal yang membentang secara horizontal mengelilingi bumi disebut dengan garis...",
+      "options": [
+        "Garis Khatulistiwa",
+        "Garis Bujur",
+        "Garis Vertikal",
+        "Garis Diagonal"
+      ],
+      "answer": "Garis Khatulistiwa",
+      "explanation": "Garis horizontal yang membagi bumi menjadi belahan utara dan selatan disebut garis khatulistiwa atau equator.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "equator line globe"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Perhatikan dialog berikut mengenai letak geografis Indonesia.",
+      "options": [
+        "Di antara dua benua dan dua samudra",
+        "Di antara dua kutub bumi",
+        "Di pusat benua Asia",
+        "Di antara dua samudra saja"
+      ],
+      "answer": "Di antara dua benua dan dua samudra",
+      "explanation": "Secara geografis, Indonesia terletak di antara Benua Asia dan Australia, serta Samudra Hindia dan Pasifik.",
+      "conversation": [
+        {
+          "speaker": "Guru",
+          "text": "Anak-anak, di manakah letak geografis negara kita yang sangat strategis ini?"
+        },
+        {
+          "speaker": "Budi",
+          "text": "Seingat saya, Indonesia berada di posisi silang dunia, Bu!"
+        }
+      ],
+      "illustration": "Seorang guru bertanya di depan kelas tentang posisi Indonesia di peta dunia.",
+      "imageKeyword": "map of indonesia world location"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Letak astronomis Indonesia berada pada posisi...",
+      "options": [
+        "6 LU - 11 LS dan 95 BT - 141 BT",
+        "6 LS - 11 LU dan 95 BB - 141 BB",
+        "6 LU - 11 LU dan 95 BT - 141 BT",
+        "6 LS - 11 LS dan 95 BT - 141 BT"
+      ],
+      "answer": "6 LU - 11 LS dan 95 BT - 141 BT",
+      "explanation": "Letak astronomis Indonesia adalah 6 derajat Lintang Utara hingga 11 derajat Lintang Selatan dan 95 derajat Bujur Timur hingga 141 derajat Bujur Timur.",
+      "conversation": null,
+      "illustration": "Peta dunia dengan garis koordinat yang menunjuk pada kepulauan Indonesia.",
+      "imageKeyword": "indonesia map coordinates"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Sebelah utara Indonesia berbatasan langsung dengan negara...",
+      "options": [
+        "Malaysia dan Singapura",
+        "Australia",
+        "Papua Nugini",
+        "Timor Leste"
+      ],
+      "answer": "Malaysia dan Singapura",
+      "explanation": "Secara geografis di sebelah utara, Indonesia berbatasan dengan Malaysia, Singapura, dan Laut Cina Selatan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "map southeast asia borders"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Peta yang menggambarkan kenampakan alam seperti gunung dan sungai disebut peta...",
+      "options": [
+        "Fisik",
+        "Tematik",
+        "Dunia",
+        "Politik"
+      ],
+      "answer": "Fisik",
+      "explanation": "Peta fisik fokus pada kenampakan alam, sedangkan peta politik fokus pada batas wilayah negara atau daerah.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "physical map example"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "comic",
+      "question": "Berdasarkan gambar peta di samping, jenis peta apakah itu?",
+      "options": [
+        "Peta Tematik (Persebaran Tambang)",
+        "Peta Relief",
+        "Peta Topografi",
+        "Peta Laut"
+      ],
+      "answer": "Peta Tematik (Persebaran Tambang)",
+      "explanation": "Peta yang menunjukkan satu tema khusus, seperti persebaran tambang atau kepadatan penduduk, disebut peta tematik.",
+      "conversation": null,
+      "illustration": "Panel komik: Siswa A memegang peta dengan simbol-simbol emas dan batubara. Siswa B bertanya peta apa itu.",
+      "imageKeyword": "thematic map symbols"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Wilayah Indonesia dibagi menjadi tiga zona waktu. Ketiga zona waktu tersebut adalah...",
+      "options": [
+        "WIB, WITA, WIT",
+        "WIB, WIT, GMT",
+        "WIB, WITA, WIB",
+        "WITA, WIT, GMT"
+      ],
+      "answer": "WIB, WITA, WIT",
+      "explanation": "Zona waktu di Indonesia terdiri dari Waktu Indonesia Barat (WIB), Waktu Indonesia Tengah (WITA), dan Waktu Indonesia Timur (WIT).",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "indonesia time zone map"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Jika di Jakarta pukul 07.00 WIB, maka di Jayapura (Papua) pukul...",
+      "options": [
+        "09.00 WIT",
+        "07.00 WIT",
+        "08.00 WIT",
+        "06.00 WIT"
+      ],
+      "answer": "09.00 WIT",
+      "explanation": "Perbedaan waktu antara WIB dan WIT adalah 2 jam. Jadi 07.00 + 2 jam = 09.00.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "clock time difference map"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Berikut ini adalah ciri-ciri negara beriklim tropis, kecuali...",
+      "options": [
+        "Memiliki musim salju",
+        "Suhu udara rata-rata tinggi",
+        "Curah hujan tinggi",
+        "Mendapat sinar matahari sepanjang tahun"
+      ],
+      "answer": "Memiliki musim salju",
+      "explanation": "Negara tropis tidak memiliki musim salju, melainkan hanya dua musim yaitu kemarau dan penghujan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "tropical climate nature"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "pg",
+      "format": "text",
+      "question": "Indonesia terletak di jalur pertemuan tiga lempeng tektonik besar, yaitu...",
+      "options": [
+        "Indo-Australia, Eurasia, Pasifik",
+        "Eurasia, Atlantik, Pasifik",
+        "Indo-Australia, Afrika, Pasifik",
+        "Antartika, Eurasia, Hindia"
+      ],
+      "answer": "Indo-Australia, Eurasia, Pasifik",
+      "explanation": "Secara geologis, Indonesia berada di pertemuan lempeng Indo-Australia, Eurasia, dan Pasifik.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "tectonic plates map indonesia"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Garis khayal yang membagi bumi menjadi belahan barat dan timur adalah...",
+      "options": [],
+      "answer": "Garis Bujur",
+      "explanation": "Garis bujur adalah garis khayal yang membujur dari kutub utara ke kutub selatan.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "longitude line earth"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Samudra yang mengapit wilayah Indonesia adalah Samudra Hindia dan Samudra...",
+      "options": [],
+      "answer": "Pasifik",
+      "explanation": "Indonesia diapit oleh dua samudra besar yaitu Hindia dan Pasifik.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "pacific ocean map"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Nama alat bantu untuk melihat letak wilayah di permukaan bumi adalah...",
+      "options": [],
+      "answer": "Peta (atau Globe)",
+      "explanation": "Peta dan globe adalah media utama dalam pembelajaran geografi.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "globe and map"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Kota yang menjadi patokan waktu untuk WIB adalah...",
+      "options": [],
+      "answer": "Jakarta (atau Pontianak/Meridian 105 derajat BT)",
+      "explanation": "WIB menggunakan acuan garis bujur 105 derajat BT yang melewati Jakarta dan sekitarnya.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "indonesia meridian map"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Negara tetangga di sebelah selatan Indonesia adalah...",
+      "options": [],
+      "answer": "Australia",
+      "explanation": "Wilayah selatan Indonesia berbatasan dengan Samudra Hindia dan negara Australia.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "australia indonesia map"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "comic",
+      "question": "Sebutkan komponen peta yang berfungsi menunjukkan arah mata angin!",
+      "options": [],
+      "answer": "Orientasi (atau Penunjuk Arah)",
+      "explanation": "Orientasi pada peta biasanya berbentuk simbol panah yang menunjukkan arah utara.",
+      "conversation": [
+        {
+          "speaker": "Siswa",
+          "text": "Bu, bagaimana cara tahu arah utara di peta ini?"
+        },
+        {
+          "speaker": "Guru",
+          "text": "Lihatlah simbol panah di pojok peta itu, itu namanya orientasi."
+        }
+      ],
+      "illustration": "Gambar simbol kompas di pojok peta.",
+      "imageKeyword": "map compass rose"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Negara kita berbentuk negara kepulauan yang sering disebut dengan istilah...",
+      "options": [],
+      "answer": "Negara Maritim (atau Nusantara)",
+      "explanation": "Indonesia disebut negara kepulauan atau negara maritim karena sebagian besar wilayahnya adalah laut.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "indonesia archipelago"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa nama ibu kota negara Indonesia yang baru?",
+      "options": [],
+      "answer": "Nusantara (IKN)",
+      "explanation": "Berdasarkan undang-undang terbaru, ibu kota negara Indonesia dipindahkan ke Nusantara di Kalimantan Timur.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "IKN Nusantara map"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Letak Indonesia yang diapit dua benua sering disebut dengan istilah posisi...",
+      "options": [],
+      "answer": "Silang",
+      "explanation": "Indonesia berada di posisi silang yang menghubungkan jalur perdagangan internasional.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "cross position trade route"
+    },
+    {
+      "materi": "Peta dan Letak Geografis Indonesia",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan satu keuntungan Indonesia memiliki iklim tropis bagi pertanian!",
+      "options": [],
+      "answer": "Tanah subur karena banyak hujan dan sinar matahari",
+      "explanation": "Iklim tropis dengan curah hujan yang cukup sepanjang tahun membuat lahan pertanian sangat produktif.",
+      "conversation": null,
+      "illustration": null,
+      "imageKeyword": "rice field indonesia"
+    }
+  ],
+  "agama": [
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "pg",
+      "format": "text",
+      "question": "Surah Ali-Imran ayat 64 mengajarkan kita untuk mengajak ahli kitab kepada satu kalimat yang sama. Kalimat tersebut berkaitan dengan...",
+      "options": [
+        "Menyembah Allah saja",
+        "Meninggalkan ibadah",
+        "Membangun rumah ibadah",
+        "Menyebarkan kebencian"
+      ],
+      "answer": "Menyembah Allah saja",
+      "explanation": "Surah Ali-Imran ayat 64 mengajak untuk tidak menyekutukan Allah dengan apapun.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "isian",
+      "format": "text",
+      "question": "Dalam surah Al-Baqarah ayat 256 disebutkan bahwa tidak ada paksaan dalam...",
+      "options": null,
+      "answer": "Agama",
+      "explanation": "Ayat tersebut menegaskan kebebasan beragama.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Apa inti pesan dari kedua ayat tersebut jika disatukan?",
+      "options": [
+        "Toleransi dan ketauhidan",
+        "Perang antar umat",
+        "Fanatisme golongan",
+        "Persaingan kekayaan"
+      ],
+      "answer": "Toleransi dan ketauhidan",
+      "explanation": "Pesan pokoknya adalah mengesakan Allah dengan tetap menghargai perbedaan.",
+      "conversation": [
+        {
+          "speaker": "Ahmad",
+          "text": "Apa arti toleransi beragama menurut ayat tersebut?"
+        },
+        {
+          "speaker": "Budi",
+          "text": "Kita bebas menjalankan keyakinan tanpa memaksakan ke orang lain."
+        }
+      ],
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Nama lain hari kiamat yang artinya hari kebangkitan adalah...",
+      "options": [
+        "Yaumul Ba'ats",
+        "Yaumul Hisab",
+        "Yaumul Mizan",
+        "Yaumul Mahsyar"
+      ],
+      "answer": "Yaumul Ba'ats",
+      "explanation": "Yaumul Ba'ats adalah hari dibangkitkannya manusia dari kubur.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "isian",
+      "format": "comic",
+      "question": "Lihatlah ilustrasi: Seorang anak sedang merenung melihat kehancuran bumi. Hari berakhirnya seluruh alam semesta disebut dengan...",
+      "options": null,
+      "answer": "Hari Kiamat",
+      "explanation": "Kiamat adalah akhir dari kehidupan dunia.",
+      "conversation": null,
+      "illustration": "Seorang anak menatap langit yang terbelah dan gunung yang meletus sebagai tanda kiamat."
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Peristiwa penting di mana seluruh amal perbuatan manusia dihitung adalah...",
+      "options": [
+        "Yaumul Hisab",
+        "Yaumul Mizan",
+        "Yaumul Ba'ats",
+        "Yaumul Mahsyar"
+      ],
+      "answer": "Yaumul Hisab",
+      "explanation": "Hisab artinya perhitungan amal.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Sikap mawas diri saat menanti hari akhir tercermin dalam perilaku...",
+      "options": [
+        "Memperbanyak amal saleh",
+        "Bermalas-malasan",
+        "Menyombongkan diri",
+        "Acuh tak acuh"
+      ],
+      "answer": "Memperbanyak amal saleh",
+      "explanation": "Mawas diri berarti selalu memperbaiki diri sebelum ajal menjemput.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "pg",
+      "format": "text",
+      "question": "Berteman tanpa membedakan agama merupakan wujud dari...",
+      "options": [
+        "Toleransi",
+        "Diskriminasi",
+        "Fanatisme",
+        "Eksklusivitas"
+      ],
+      "answer": "Toleransi",
+      "explanation": "Islam mengajarkan kasih sayang kepada sesama manusia.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa arti dari Yaumul Mizan?",
+      "options": null,
+      "answer": "Hari penimbangan amal perbuatan",
+      "explanation": "Mizan adalah timbangan amal.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "pg",
+      "format": "text",
+      "question": "Dalam konteks persaudaraan, sikap kita terhadap tetangga yang berbeda agama adalah...",
+      "options": [
+        "Menghormati",
+        "Menjauhi",
+        "Memusuhi",
+        "Mengabaikan"
+      ],
+      "answer": "Menghormati",
+      "explanation": "Islam menekankan pentingnya menjaga hubungan baik dengan tetangga.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "pg",
+      "format": "text",
+      "question": "Surah Ali-Imran ayat 64 mengingatkan kita agar tidak...",
+      "options": [
+        "Menyekutukan Allah",
+        "Bekerja keras",
+        "Menuntut ilmu",
+        "Bersedekah"
+      ],
+      "answer": "Menyekutukan Allah",
+      "explanation": "Larangan syirik adalah inti dari ayat tersebut.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Peristiwa berkumpulnya manusia di padang luas setelah dibangkitkan disebut...",
+      "options": [
+        "Yaumul Mahsyar",
+        "Yaumul Hisab",
+        "Yaumul Ba'ats",
+        "Yaumul Jazaa"
+      ],
+      "answer": "Yaumul Mahsyar",
+      "explanation": "Mahsyar artinya tempat berkumpul.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan satu contoh perilaku toleransi di sekolah!",
+      "options": null,
+      "answer": "Tidak mengganggu teman yang sedang beribadah",
+      "explanation": "Menghargai ibadah teman adalah bentuk nyata toleransi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Mengapa kita harus gotong royong dalam kebaikan?",
+      "options": [
+        "Agar pahala berlipat ganda",
+        "Agar dipuji orang",
+        "Agar cepat selesai",
+        "Agar terlihat hebat"
+      ],
+      "answer": "Agar pahala berlipat ganda",
+      "explanation": "Gotong royong adalah perintah Allah dalam kebaikan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa pesan utama surah Al-Baqarah ayat 256?",
+      "options": null,
+      "answer": "Tidak ada paksaan dalam memeluk agama",
+      "explanation": "Kebebasan beragama adalah hak asasi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Siapakah yang mengetahui kapan terjadinya hari kiamat?",
+      "options": [
+        "Allah SWT",
+        "Malaikat Jibril",
+        "Nabi Muhammad",
+        "Semua Manusia"
+      ],
+      "answer": "Allah SWT",
+      "explanation": "Hanya Allah yang mengetahui waktu kiamat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa yang dimaksud dengan hari akhir?",
+      "options": [
+        "Hancurnya alam semesta",
+        "Awal penciptaan manusia",
+        "Masa kejayaan Islam",
+        "Hari libur panjang"
+      ],
+      "answer": "Hancurnya alam semesta",
+      "explanation": "Hari akhir adalah hari kiamat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa manfaat bersikap toleransi?",
+      "options": [
+        "Tercipta kerukunan",
+        "Menambah musuh",
+        "Memecah belah",
+        "Menciptakan konflik"
+      ],
+      "answer": "Tercipta kerukunan",
+      "explanation": "Toleransi adalah kunci kedamaian.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebutkan satu nama lain hari kiamat!",
+      "options": null,
+      "answer": "Yaumul Qiyamah",
+      "explanation": "Qiyamah artinya hari tegak/berdiri.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa arti 'La ikraha fid din'?",
+      "options": [
+        "Tidak ada paksaan dalam agama",
+        "Agama itu mudah",
+        "Agama itu wajib",
+        "Tidak ada agama"
+      ],
+      "answer": "Tidak ada paksaan dalam agama",
+      "explanation": "Ini potongan dari surah Al-Baqarah ayat 256.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Mengapa kita perlu melakukan mawas diri?",
+      "options": [
+        "Untuk memperbaiki amal",
+        "Untuk menghitung harta",
+        "Untuk memuji diri",
+        "Untuk menyalahkan orang lain"
+      ],
+      "answer": "Untuk memperbaiki amal",
+      "explanation": "Mawas diri adalah introspeksi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Iman kepada hari akhir merupakan rukun iman ke...",
+      "options": [
+        "Lima",
+        "Empat",
+        "Tiga",
+        "Enam"
+      ],
+      "answer": "Lima",
+      "explanation": "Rukun iman kelima adalah iman kepada hari kiamat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa maksud dari persaudaraan Islam?",
+      "options": null,
+      "answer": "Kasih sayang antar sesama muslim",
+      "explanation": "Persaudaraan Islam bersifat universal.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Setelah dibangkitkan, manusia menuju ke...",
+      "options": [
+        "Padang Mahsyar",
+        "Surga",
+        "Neraka",
+        "Bumi kembali"
+      ],
+      "answer": "Padang Mahsyar",
+      "explanation": "Mahsyar adalah tempat berkumpul.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa perilaku yang mencerminkan toleransi?",
+      "options": [
+        "Menghargai perbedaan",
+        "Mengejek teman",
+        "Menjauhi orang lain",
+        "Mencari kesalahan"
+      ],
+      "answer": "Menghargai perbedaan",
+      "explanation": "Menghargai adalah inti toleransi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa yang dimaksud dengan amal saleh?",
+      "options": null,
+      "answer": "Perbuatan baik yang sesuai syariat",
+      "explanation": "Amal saleh membawa keberuntungan di akhirat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Sikap gotong royong sangat penting saat...",
+      "options": [
+        "Membersihkan lingkungan",
+        "Mengerjakan ujian sendiri",
+        "Berbohong",
+        "Bermain game"
+      ],
+      "answer": "Membersihkan lingkungan",
+      "explanation": "Gotong royong adalah kerja sama.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "pg",
+      "format": "text",
+      "question": "Siapakah yang dituju dalam ajakan Ali-Imran ayat 64?",
+      "options": [
+        "Ahli Kitab",
+        "Orang kafir yang memusuhi",
+        "Sesama muslim saja",
+        "Hewan"
+      ],
+      "answer": "Ahli Kitab",
+      "explanation": "Ayat ini ditujukan kepada penganut kitab suci sebelumnya.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa lawan kata dari sombong?",
+      "options": null,
+      "answer": "Rendah hati",
+      "explanation": "Rendah hati adalah perilaku terpuji.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Yaumul Jazaa artinya hari...",
+      "options": [
+        "Pembalasan",
+        "Perhitungan",
+        "Kebangkitan",
+        "Penimbangan"
+      ],
+      "answer": "Pembalasan",
+      "explanation": "Jazaa berasal dari kata jaza' (balasan).",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa yang akan terjadi pada gunung saat kiamat?",
+      "options": [
+        "Meletus dan berhamburan",
+        "Menjadi emas",
+        "Tumbuh lebih tinggi",
+        "Tetap tenang"
+      ],
+      "answer": "Meletus dan berhamburan",
+      "explanation": "Gunung akan meletus dan hancur.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "isian",
+      "format": "text",
+      "question": "Tuliskan satu hikmah toleransi!",
+      "options": null,
+      "answer": "Hidup damai dan tentram",
+      "explanation": "Toleransi menghindari konflik.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Bagaimana cara mempersiapkan diri menghadapi hari akhir?",
+      "options": [
+        "Ibadah dan amal soleh",
+        "Banyak menabung uang",
+        "Bermain sepuasnya",
+        "Bekerja keras saja"
+      ],
+      "answer": "Ibadah dan amal soleh",
+      "explanation": "Hanya amal yang dibawa ke akhirat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa maksud dari 'mawas diri'?",
+      "options": [
+        "Melihat ke dalam diri sendiri",
+        "Melihat kelemahan orang lain",
+        "Melihat masa depan",
+        "Melihat barang orang"
+      ],
+      "answer": "Melihat ke dalam diri sendiri",
+      "explanation": "Mawas diri adalah introspeksi.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "isian",
+      "format": "text",
+      "question": "Siapakah teladan utama dalam toleransi?",
+      "options": null,
+      "answer": "Nabi Muhammad SAW",
+      "explanation": "Nabi sangat santun pada tetangga yang berbeda agama.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa fungsi mizan bagi manusia di akhirat?",
+      "options": [
+        "Menimbang amal",
+        "Menimbang tubuh",
+        "Menimbang harta",
+        "Menimbang dunia"
+      ],
+      "answer": "Menimbang amal",
+      "explanation": "Mizan adalah timbangan amal.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Kiamat yang menghancurkan sebagian alam disebut...",
+      "options": [
+        "Kiamat Sugra",
+        "Kiamat Kubra",
+        "Kiamat Akhir",
+        "Kiamat Awal"
+      ],
+      "answer": "Kiamat Sugra",
+      "explanation": "Sugra artinya kecil (kematian).",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa arti 'Ali-Imran'?",
+      "options": null,
+      "answer": "Keluarga Imran",
+      "explanation": "Nama surah Ali-Imran merujuk pada keluarga Imran.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "pg",
+      "format": "text",
+      "question": "Persaudaraan yang didasari iman disebut...",
+      "options": [
+        "Ukhuwah Islamiyah",
+        "Ukhuwah Wathaniyah",
+        "Ukhuwah Basyariyah",
+        "Ukhuwah Keluarga"
+      ],
+      "answer": "Ukhuwah Islamiyah",
+      "explanation": "Ukhuwah Islamiyah adalah persaudaraan sesama umat Islam.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Sikap orang yang tidak beriman kepada hari akhir adalah...",
+      "options": [
+        "Lalai",
+        "Waspada",
+        "Sabar",
+        "Bersyukur"
+      ],
+      "answer": "Lalai",
+      "explanation": "Tidak percaya hari akhir membuat orang tidak peduli pada amal.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "isian",
+      "format": "text",
+      "question": "Apakah kiamat pasti terjadi?",
+      "options": null,
+      "answer": "Pasti",
+      "explanation": "Wajib mengimani hari kiamat.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Peristiwa apa yang terjadi di Yaumul Ba'ats?",
+      "options": [
+        "Kebangkitan dari kubur",
+        "Perhitungan amal",
+        "Penimbangan amal",
+        "Pembalasan"
+      ],
+      "answer": "Kebangkitan dari kubur",
+      "explanation": "Ba'ats artinya membangkitkan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Apa arti beriman kepada hari akhir?",
+      "options": [
+        "Yakin akan adanya hari kiamat",
+        "Takut mati",
+        "Menanti kematian",
+        "Benci dunia"
+      ],
+      "answer": "Yakin akan adanya hari kiamat",
+      "explanation": "Iman berarti percaya sepenuhnya.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa sebutan untuk orang yang menyekutukan Allah?",
+      "options": null,
+      "answer": "Musyrik",
+      "explanation": "Musyrik adalah pelaku syirik.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "pg",
+      "format": "text",
+      "question": "Tujuan berteman adalah untuk...",
+      "options": [
+        "Saling mengenal dan membantu",
+        "Saling menghina",
+        "Saling bersaing",
+        "Saling menjatuhkan"
+      ],
+      "answer": "Saling mengenal dan membantu",
+      "explanation": "Silaturahmi dianjurkan dalam Islam.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "pg",
+      "format": "text",
+      "question": "Siapakah malaikat yang meniup sangkakala?",
+      "options": [
+        "Israfil",
+        "Mikail",
+        "Jibril",
+        "Izrail"
+      ],
+      "answer": "Israfil",
+      "explanation": "Tugas Malaikat Israfil adalah meniup sangkakala.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa itu kiamat kubra?",
+      "options": null,
+      "answer": "Kiamat besar / kehancuran alam semesta",
+      "explanation": "Kubra berarti besar.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Al-Qur’an Hadis",
+      "type": "pg",
+      "format": "text",
+      "question": "Tujuan utama toleransi adalah...",
+      "options": [
+        "Kedamaian",
+        "Perdebatan",
+        "Perpecahan",
+        "Kebencian"
+      ],
+      "answer": "Kedamaian",
+      "explanation": "Toleransi membawa ketenangan.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akhlak",
+      "type": "pg",
+      "format": "text",
+      "question": "Jika teman berbeda agama kesulitan, apa yang kita lakukan?",
+      "options": [
+        "Membantunya",
+        "Membiarkannya",
+        "Menertawakannya",
+        "Menjauhinya"
+      ],
+      "answer": "Membantunya",
+      "explanation": "Bantuan bersifat universal.",
+      "conversation": null,
+      "illustration": null
+    },
+    {
+      "materi": "Akidah",
+      "type": "isian",
+      "format": "text",
+      "question": "Apa janji Allah bagi orang yang beramal saleh?",
+      "options": null,
+      "answer": "Surga",
+      "explanation": "Surga adalah balasan bagi mukmin yang beramal saleh.",
+      "conversation": null,
+      "illustration": null
+    }
+  ],
+  "mtk": [
+    {
+      "materi": "Keliling Persegi Panjang",
+      "type": "pg",
+      "format": "text",
+      "question": "Pak Budi memiliki sebuah kolam ikan berbentuk persegi panjang dengan panjang 12 meter dan lebar 8 meter. Berapakah keliling kolam ikan tersebut?",
+      "options": [
+        "20 meter",
+        "40 meter",
+        "80 meter",
+        "96 meter"
+      ],
+      "answer": "40 meter",
+      "explanation": "Keliling persegi panjang dihitung dengan rumus 2 x (panjang + lebar). Jadi, 2 x (12 + 8) = 2 x 20 = 40 meter.",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Segitiga",
+      "type": "pg",
+      "format": "animation",
+      "question": "Sebuah animasi menampilkan sebuah penggaris berbentuk segitiga sama sisi dengan panjang salah satu sisinya 15 cm. Berapakah keliling penggaris tersebut?",
+      "options": [
+        "30 cm",
+        "45 cm",
+        "60 cm",
+        "225 cm"
+      ],
+      "answer": "45 cm",
+      "explanation": "Segitiga sama sisi memiliki tiga sisi yang sama panjang. Keliling = 3 x sisi = 3 x 15 = 45 cm.",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Segitiga",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Berdasarkan percakapan di atas, berapakah keliling syal pramuka milik Dafa?",
+      "options": [
+        "120 cm",
+        "140 cm",
+        "160 cm",
+        "200 cm"
+      ],
+      "answer": "160 cm",
+      "explanation": "Keliling segitiga adalah jumlah seluruh sisinya. 60 + 50 + 50 = 160 cm.",
+      "conversation": [
+        {
+          "speaker": "Dafa",
+          "text": "Syal pramukaku berbentuk segitiga sama kaki."
+        },
+        {
+          "speaker": "Lulu",
+          "text": "Berapa ukuran sisi-sisinya, Dafa?"
+        },
+        {
+          "speaker": "Dafa",
+          "text": "Sisi alasnya 60 cm, dan kedua sisi miringnya masing-masing 50 cm."
+        }
+      ]
+    },
+    {
+      "materi": "Keliling Segitiga",
+      "type": "isian",
+      "format": "text",
+      "question": "Riko berlari mengelilingi taman berbentuk segitiga dengan panjang sisi 10 meter, 12 meter, dan 15 meter. Total jarak yang ditempuh Riko dalam satu putaran adalah ... meter.",
+      "options": null,
+      "answer": "37",
+      "explanation": "Keliling = sisi1 + sisi2 + sisi3 = 10 + 12 + 15 = 37 meter.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Jajar Genjang",
+      "type": "pg",
+      "format": "animation",
+      "question": "Dalam sebuah video pembelajaran, terlihat gambar jajar genjang dengan alas 14 cm dan tinggi 10 cm. Berapakah luas jajar genjang tersebut?",
+      "options": [
+        "24 cm²",
+        "48 cm²",
+        "140 cm²",
+        "280 cm²"
+      ],
+      "answer": "140 cm²",
+      "explanation": "Luas jajar genjang = alas x tinggi. Jadi, 14 x 10 = 140 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Persegi",
+      "type": "pg",
+      "format": "comic",
+      "question": "Dini sedang menggambar sebuah persegi di buku tulisnya. Sisi persegi tersebut adalah 9 cm. Bantulah Dini menghitung kelilingnya!",
+      "options": [
+        "18 cm",
+        "27 cm",
+        "36 cm",
+        "81 cm"
+      ],
+      "answer": "36 cm",
+      "explanation": "Keliling persegi = 4 x sisi. Jadi, 4 x 9 = 36 cm.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Persegi Panjang",
+      "type": "pg",
+      "format": "text",
+      "question": "Sebuah layar televisi berbentuk persegi panjang dengan ukuran panjang 50 cm dan lebar 30 cm. Luas permukaan layar televisi tersebut adalah...",
+      "options": [
+        "150 cm²",
+        "1.500 cm²",
+        "160 cm²",
+        "80 cm²"
+      ],
+      "answer": "1.500 cm²",
+      "explanation": "Luas persegi panjang = p x l = 50 x 30 = 1.500 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Persegi Panjang",
+      "type": "isian",
+      "format": "animation",
+      "question": "Pada simulasi komputer, sebuah jendela persegi panjang memiliki panjang 25 cm dan lebar 10 cm. Luas jendela tersebut adalah ... cm².",
+      "options": null,
+      "answer": "250",
+      "explanation": "Luas = p x l = 25 x 10 = 250 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Segitiga",
+      "type": "pg",
+      "format": "text",
+      "question": "Ibu memotong kue berbentuk segitiga dengan alas 12 cm dan tinggi 8 cm. Berapakah luas kue tersebut?",
+      "options": [
+        "20 cm²",
+        "48 cm²",
+        "96 cm²",
+        "100 cm²"
+      ],
+      "answer": "48 cm²",
+      "explanation": "Luas segitiga = (alas x tinggi) / 2 = (12 x 8) / 2 = 96 / 2 = 48 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Persegi",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Berdasarkan percakapan mereka, berapakah keliling sapu tangan Beni?",
+      "options": [
+        "40 cm",
+        "60 cm",
+        "80 cm",
+        "100 cm"
+      ],
+      "answer": "80 cm",
+      "explanation": "Sisi sapu tangan adalah 20 cm. Keliling persegi = 4 x 20 = 80 cm.",
+      "conversation": [
+        {
+          "speaker": "Beni",
+          "text": "Sapu tanganku bentuknya persegi sempurna lho."
+        },
+        {
+          "speaker": "Siti",
+          "text": "Wah, berapa panjang sisinya?"
+        },
+        {
+          "speaker": "Beni",
+          "text": "Panjang sisinya tepat 20 cm."
+        }
+      ]
+    },
+    {
+      "materi": "Luas Jajar Genjang",
+      "type": "pg",
+      "format": "comic",
+      "question": "Iwan melihat hiasan dinding berbentuk jajar genjang. Alasnya 15 cm dan tingginya 12 cm. Berapakah luas hiasan tersebut?",
+      "options": [
+        "180 cm²",
+        "150 cm²",
+        "90 cm²",
+        "27 cm²"
+      ],
+      "answer": "180 cm²",
+      "explanation": "Luas = alas x tinggi = 15 x 12 = 180 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Durasi Waktu",
+      "type": "pg",
+      "format": "text",
+      "question": "Adit mulai belajar kelompok pada pukul 14.30 dan selesai pada pukul 16.15. Berapa lama Adit belajar kelompok?",
+      "options": [
+        "1 jam 15 menit",
+        "1 jam 30 menit",
+        "1 jam 45 menit",
+        "2 jam"
+      ],
+      "answer": "1 jam 45 menit",
+      "explanation": "Dari 14.30 ke 15.30 adalah 1 jam. Dari 15.30 ke 16.15 adalah 45 menit. Total 1 jam 45 menit.",
+      "conversation": null
+    },
+    {
+      "materi": "Selisih Waktu",
+      "type": "pg",
+      "format": "text",
+      "question": "Bus A berangkat pukul 07.00 dan tiba pukul 09.30. Bus B berangkat pukul 08.15 dan tiba pukul 10.00. Berapakah selisih lama perjalanan kedua bus tersebut?",
+      "options": [
+        "30 menit",
+        "45 menit",
+        "60 menit",
+        "75 menit"
+      ],
+      "answer": "45 menit",
+      "explanation": "Lama Bus A = 2 jam 30 menit (150 menit). Lama Bus B = 1 jam 45 menit (105 menit). Selisih = 150 - 105 = 45 menit.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Persegi",
+      "type": "pg",
+      "format": "comic",
+      "question": "Seorang arsitek menggambar ubin berbentuk persegi dengan panjang sisi 30 cm. Luas ubin tersebut adalah...",
+      "options": [
+        "60 cm²",
+        "120 cm²",
+        "900 cm²",
+        "600 cm²"
+      ],
+      "answer": "900 cm²",
+      "explanation": "Luas persegi = sisi x sisi = 30 x 30 = 900 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Durasi Waktu",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Pukul berapakah kegiatan ekstrakurikuler mereka selesai?",
+      "options": [
+        "16.45",
+        "17.00",
+        "17.15",
+        "17.30"
+      ],
+      "answer": "17.15",
+      "explanation": "Mulai pukul 15.30 ditambah durasi 1 jam 45 menit. 15.30 + 1 jam = 16.30. 16.30 + 45 menit = 17.15.",
+      "conversation": [
+        {
+          "speaker": "Edo",
+          "text": "Ekstrakurikuler pramuka mulai jam 15.30."
+        },
+        {
+          "speaker": "Lani",
+          "text": "Iya, dan kegiatannya berlangsung selama 1 jam 45 menit."
+        }
+      ]
+    },
+    {
+      "materi": "Luas Persegi",
+      "type": "pg",
+      "format": "animation",
+      "question": "Terdapat sebuah kotak kado berbentuk kubus, namun kita hanya menghitung luas bagian atasnya saja yang berbentuk persegi dengan sisi 15 cm. Berapakah luasnya?",
+      "options": [
+        "30 cm²",
+        "60 cm²",
+        "225 cm²",
+        "150 cm²"
+      ],
+      "answer": "225 cm²",
+      "explanation": "Luas persegi = sisi x sisi = 15 x 15 = 225 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Persegi Panjang",
+      "type": "pg",
+      "format": "text",
+      "question": "Sebuah lapangan basket memiliki panjang 28 meter dan lebar 15 meter. Berapakah keliling lapangan tersebut?",
+      "options": [
+        "43 meter",
+        "86 meter",
+        "120 meter",
+        "420 meter"
+      ],
+      "answer": "86 meter",
+      "explanation": "Keliling = 2 x (28 + 15) = 2 x 43 = 86 meter.",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Gabungan",
+      "type": "pg",
+      "format": "text",
+      "question": "Dua buah persegi dengan sisi 5 cm diletakkan berdampingan sehingga membentuk satu persegi panjang. Berapakah keliling bangun gabungan tersebut?",
+      "options": [
+        "20 cm",
+        "30 cm",
+        "40 cm",
+        "50 cm"
+      ],
+      "answer": "30 cm",
+      "explanation": "Bangun baru memiliki panjang 10 cm (5+5) dan lebar 5 cm. Keliling = 2 x (10 + 5) = 30 cm.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Gabungan",
+      "type": "pg",
+      "format": "text",
+      "question": "Sebuah bangun terdiri dari sebuah persegi dengan sisi 6 cm dan sebuah segitiga dengan alas 6 cm dan tinggi 4 cm yang menempel di salah satu sisinya. Luas total bangun tersebut adalah...",
+      "options": [
+        "12 cm²",
+        "36 cm²",
+        "48 cm²",
+        "60 cm²"
+      ],
+      "answer": "48 cm²",
+      "explanation": "Luas persegi = 6x6 = 36. Luas segitiga = (6x4)/2 = 12. Luas total = 36 + 12 = 48 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Gabungan",
+      "type": "pg",
+      "format": "comic",
+      "question": "Bayu menggambar rumah. Bagian bawah berbentuk persegi panjang (10cm x 6cm) dan atapnya berbentuk segitiga (alas 10cm, tinggi 5cm). Berapakah luas total gambar rumah Bayu?",
+      "options": [
+        "60 cm²",
+        "25 cm²",
+        "85 cm²",
+        "110 cm²"
+      ],
+      "answer": "85 cm²",
+      "explanation": "Luas persegi panjang = 10 x 6 = 60. Luas segitiga = (10 x 5) / 2 = 25. Total = 60 + 25 = 85 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Persegi",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebuah bingkai foto berbentuk persegi memiliki sisi 18 cm. Keliling bingkai tersebut adalah ... cm.",
+      "options": null,
+      "answer": "72",
+      "explanation": "4 x 18 = 72 cm.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Jajar Genjang",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebuah tanah berbentuk jajar genjang memiliki alas 20 m dan tinggi 15 m. Luas tanah tersebut adalah ... m².",
+      "options": null,
+      "answer": "300",
+      "explanation": "20 x 15 = 300 m².",
+      "conversation": null
+    },
+    {
+      "materi": "Durasi Waktu",
+      "type": "isian",
+      "format": "text",
+      "question": "Ibu memasak nasi mulai pukul 05.15 dan matang pada pukul 06.05. Lama ibu memasak adalah ... menit.",
+      "options": null,
+      "answer": "50",
+      "explanation": "6.05 dikurangi 5.15 adalah 50 menit.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Segitiga",
+      "type": "isian",
+      "format": "animation",
+      "question": "Sebuah layar pada perahu layar berbentuk segitiga dengan alas 4 meter dan tinggi 6 meter. Luas layar tersebut adalah ... m².",
+      "options": null,
+      "answer": "12",
+      "explanation": "(4 x 6) / 2 = 12 m².",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Segitiga",
+      "type": "pg",
+      "format": "text",
+      "question": "Sebuah segitiga sembarang memiliki panjang sisi 13 cm, 17 cm, dan 20 cm. Kelilingnya adalah...",
+      "options": [
+        "40 cm",
+        "50 cm",
+        "60 cm",
+        "70 cm"
+      ],
+      "answer": "50 cm",
+      "explanation": "13 + 17 + 20 = 50 cm.",
+      "conversation": null
+    },
+    {
+      "materi": "Besar Sudut",
+      "type": "pg",
+      "format": "text",
+      "question": "Sudut yang besarnya 90 derajat disebut sudut...",
+      "options": [
+        "Lancip",
+        "Tumpul",
+        "Siku-siku",
+        "Lurus"
+      ],
+      "answer": "Siku-siku",
+      "explanation": "Sudut siku-siku adalah sudut yang besarnya tepat 90 derajat.",
+      "conversation": null
+    },
+    {
+      "materi": "Besar Sudut",
+      "type": "pg",
+      "format": "comic",
+      "question": "Boni melihat jarum jam menunjukkan pukul 03.00 tepat. Berapakah besar sudut terkecil yang dibentuk kedua jarum jam tersebut?",
+      "options": [
+        "30°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "answer": "90°",
+      "explanation": "Setiap angka jam mewakili 30°. Pukul 03.00 berarti 3 angka x 30° = 90°.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Gabungan",
+      "type": "pg",
+      "format": "animation",
+      "question": "Dua jajar genjang yang identik masing-masing memiliki alas 8 cm dan tinggi 5 cm disusun mendatar. Berapakah luas totalnya?",
+      "options": [
+        "40 cm²",
+        "80 cm²",
+        "20 cm²",
+        "13 cm²"
+      ],
+      "answer": "80 cm²",
+      "explanation": "Satu jajar genjang = 8x5 = 40. Dua jajar genjang = 40 x 2 = 80 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Persegi Panjang",
+      "type": "pg",
+      "format": "text",
+      "question": "Sebuah buku gambar memiliki keliling 100 cm. Jika panjangnya 30 cm, berapakah lebarnya?",
+      "options": [
+        "20 cm",
+        "40 cm",
+        "50 cm",
+        "70 cm"
+      ],
+      "answer": "20 cm",
+      "explanation": "Keliling = 2 x (p + l) -> 100 = 2 x (30 + l) -> 50 = 30 + l -> l = 20 cm.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Persegi",
+      "type": "pg",
+      "format": "text",
+      "question": "Jika sebuah persegi memiliki keliling 40 cm, berapakah luas persegi tersebut?",
+      "options": [
+        "10 cm²",
+        "40 cm²",
+        "100 cm²",
+        "160 cm²"
+      ],
+      "answer": "100 cm²",
+      "explanation": "Sisi = Keliling / 4 = 40 / 4 = 10 cm. Luas = 10 x 10 = 100 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Besar Sudut",
+      "type": "isian",
+      "format": "text",
+      "question": "Sudut yang besarnya lebih dari 90 derajat tetapi kurang dari 180 derajat disebut sudut ...",
+      "options": null,
+      "answer": "tumpul",
+      "explanation": "Definisi sudut tumpul adalah sudut antara 90 dan 180 derajat.",
+      "conversation": null
+    },
+    {
+      "materi": "Durasi Waktu",
+      "type": "isian",
+      "format": "comic",
+      "question": "Andi menonton film selama 120 menit. Itu sama saja Andi menonton selama ... jam.",
+      "options": null,
+      "answer": "2",
+      "explanation": "1 jam = 60 menit. 120 / 60 = 2 jam.",
+      "conversation": null
+    },
+    {
+      "materi": "Besar Sudut",
+      "type": "pg",
+      "format": "conversation",
+      "question": "Berdasarkan percakapan tersebut, jenis sudut yang dimaksud Pak Guru adalah...",
+      "options": [
+        "Lancip",
+        "Siku-siku",
+        "Tumpul",
+        "Lurus"
+      ],
+      "answer": "Lancip",
+      "explanation": "Sudut yang kurang dari 90 derajat adalah sudut lancip.",
+      "conversation": [
+        {
+          "speaker": "Pak Guru",
+          "text": "Anak-anak, coba perhatikan sudut pada ujung pensil ini."
+        },
+        {
+          "speaker": "Siswa",
+          "text": "Besarnya hanya 30 derajat, Pak!"
+        }
+      ]
+    },
+    {
+      "materi": "Keliling Jajar Genjang",
+      "type": "pg",
+      "format": "text",
+      "question": "Sebuah jajar genjang memiliki panjang sisi alas 12 cm dan sisi miring 8 cm. Berapakah kelilingnya?",
+      "options": [
+        "20 cm",
+        "40 cm",
+        "96 cm",
+        "24 cm"
+      ],
+      "answer": "40 cm",
+      "explanation": "Keliling jajar genjang = 2 x (sisi alas + sisi miring) = 2 x (12 + 8) = 40 cm.",
+      "conversation": null
+    },
+    {
+      "materi": "Selisih Waktu",
+      "type": "pg",
+      "format": "text",
+      "question": "Tia mengerjakan PR Matematika selama 45 menit dan PR Bahasa Indonesia selama 30 menit. Berapa total waktu yang dihabiskan Tia dalam jam?",
+      "options": [
+        "1 jam",
+        "1,25 jam",
+        "1,5 jam",
+        "1,75 jam"
+      ],
+      "answer": "1,25 jam",
+      "explanation": "45 + 30 = 75 menit. 75 menit = 1 jam 15 menit atau 1,25 jam.",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Gabungan",
+      "type": "isian",
+      "format": "text",
+      "question": "Sebuah persegi panjang (8cm x 5cm) digabung dengan persegi panjang lain (2cm x 5cm). Luas totalnya adalah ... cm².",
+      "options": null,
+      "answer": "50",
+      "explanation": "(8x5) + (2x5) = 40 + 10 = 50 cm².",
+      "conversation": null
+    },
+    {
+      "materi": "Keliling Segitiga",
+      "type": "pg",
+      "format": "comic",
+      "question": "Seorang pelari melewati rute berbentuk segitiga siku-siku dengan alas 3 km, tinggi 4 km, dan sisi miring 5 km. Jarak total yang ditempuh adalah...",
+      "options": [
+        "7 km",
+        "9 km",
+        "12 km",
+        "15 km"
+      ],
+      "answer": "12 km",
+      "explanation": "3 + 4 + 5 = 12 km.",
+      "conversation": null
+    },
+    {
+      "materi": "Durasi Waktu",
+      "type": "pg",
+      "format": "text",
+      "question": "Sekolah dimulai pukul 07.15 dan berakhir pukul 12.45. Berapa lama siswa berada di sekolah?",
+      "options": [
+        "5 jam",
+        "5 jam 15 menit",
+        "5 jam 30 menit",
+        "6 jam"
+      ],
+      "answer": "5 jam 30 menit",
+      "explanation": "12.45 - 07.15 = 05.30 (5 jam 30 menit).",
+      "conversation": null
+    },
+    {
+      "materi": "Luas Persegi",
+      "type": "isian",
+      "format": "text",
+      "question": "Luas sebuah persegi adalah 64 cm². Panjang sisi persegi tersebut adalah ... cm.",
+      "options": null,
+      "answer": "8",
+      "explanation": "Akar kuadrat dari 64 adalah 8.",
+      "conversation": null
+    },
+    {
+      "materi": "Sudut Bangun Datar",
+      "type": "pg",
+      "format": "animation",
+      "question": "Dalam animasi, sebuah persegi diputar. Berapakah jumlah seluruh sudut dalam pada sebuah persegi?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": "360°",
+      "explanation": "Persegi memiliki 4 sudut siku-siku. 4 x 90° = 360°.",
+      "conversation": null
+    }
+  ]
+}
